@@ -61,20 +61,24 @@ status: draft
 - **[S]** He's **writing as he goes** — "a record, for whoever finds it" — never dreaming **small folk** will. Eerie.
 - **[S/T]** Carries a **token** (a caste-signet, a Morning-Star icon, an antler-shard) that's **on his body** when he washes up.
 
-## Ch 1 — Konrad & the impossible diary *(Europe)*
-**POV:** [[The Lutheran|Konrad]].
-- Establish Konrad: belligerent young Lutheran Hebrew prodigy in Germany; his contempt for Rome.
-- **Summoned/coerced** by the Church for a secret matter — galling for a Luther disciple. (Why him: the best Hebraist alive.)
-- He's shown the **giant non-human corpse** and **Penuel's diary** — a tongue that *clearly descends from ancient Hebrew but has drifted far.* The hook.
-- His **revulsion** (a soulless thing) at war with his **linguistic hunger** (the greatest find in history). He agrees — not for the Pope, for the diary.
-- First cracks of the diary: a creature that **crossed seeking Satan**; hints that **Earth survived**; a **method of crossing.** The enormity dawns. *(Reader knows it's Penuel.)*
+## Ch 1 — Konrad, and the bait *(Konrad only — slower)*
+**POV:** [[The Lutheran|Konrad]]. *(The only one of the main four in this chapter.)*
+- **Open on him translating** — in his element: the young Lutheran Hebrew prodigy at his desk in Germany, deep in his life's work (rendering the **Old Testament** from the source). Establish him **slowly** — his **genius, obsession, belligerence, Luther-fervor, prickly solitude** — before the plot grabs him.
+- **The bait:** someone he knows brings word of an offer — **extraordinarily *original* copies of the Old Testament** (ancient Hebrew, closer to the source than anything he's seen). The one lure a man like Konrad cannot refuse.
+- He **bites**, and pursues it.
+- **It's a trap.** No manuscripts are for sale; the offer was **bait to get *Konrad* specifically** — set by the Vatican, who need the one man alive who could read the diary, and who studied him well enough to know his exact weakness.
+- Lands on the hook: the heretic, lured by the *papists* through his love of the very **Word of God** — manipulated, furious, and drawn toward **talks with the Vatican.** *(The real offer — the diary — comes next.)*
+- *Open:* who's the **acquaintance** (innocent dupe, or paid to set him up)? who fronts the bait? are the "original OT" manuscripts **wholly fake, or a lesser shadow of the truth** (the diary)?
 
-## Ch 2 — Bartolomeo called *(Europe)*
-**POV:** [[The Chaplain-Knight|Bartolomeo]].
-- Establish Bartolomeo: the old crusader-priest north of Rome, survivor of Rhodes, a local legend, restless in his quiet parish.
-- **[[Pope Clement VII]]** (himself battered by the 1527 Sack of Rome) calls him to **lead** the mission. His **joy** — purpose again, the itch to defend the weak, God's work.
-- The mission's mandate (investigate the body / where it came from) and the galling condition: a **mixed crew, a heretic among them.** He accepts it as a test.
-- First friction with Konrad — the **"Fra'" / "Don"** needle begins.
+## Ch 2 — The Vatican's true offer: the diary *(the reveal)*
+**POV:** [[The Lutheran|Konrad]] *(continuing)* — **or** cut to [[The Chaplain-Knight|Bartolomeo]] for his introduction *(choose — see note).*
+- Drawn into the Vatican's talks, Konrad meets the Pope's apparatus — including **[[The Chaplain-Knight|Bartolomeo]]** — and learns the manuscripts were a lure.
+- **The real offer:** the **giant non-human corpse** and **[[The Outcast Scholar|Penuel]]'s diary** — a tongue that **clearly descends from ancient Hebrew but has drifted far** (a relic of a Hebrew-kindred *antediluvian* tongue — stranger and greater than the bait he chased).
+- His **revulsion** (a soulless, impossible thing) at war with his **linguistic hunger.** He agrees — *not for the Pope, for the diary.*
+- The **"Fra'"/"Don"** needle with Bartolomeo begins; the mission's mandate is laid out.
+- First cracks of the diary — a creature that **crossed seeking Satan**, hints that **Earth survived** — may begin here or carry into Ch 3. *(Reader knows it's Penuel.)*
+
+> **Bartolomeo's introduction:** with Ch 1 now Konrad-only, his old "called to lead" chapter is gone. Either introduce him **through Konrad's eyes here** and give him a POV chapter later, or make **this** one **his POV.** *(The Drake and Mateus recruitments, then the departure & crossing, follow — numbering shifts down, which is fine.)*
 
 ## Ch 3 — Drake commissioned *(Europe)*
 **POV:** [[The Captain|Drake]].

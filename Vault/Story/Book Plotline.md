@@ -7,7 +7,7 @@ status: draft
 
 # Book Plotline
 
-> *Of Giants and Grasshoppers*, Book 1 — **title = its year** (late 1520s, exact year TBD).
+> ***Of Giants and Grasshoppers*, Book 1: *1528*.**
 >
 > The **strict, set** narrative — the novel. The four crash into a besieged **[[Tunoth|eelfolk]]** [[The Ocean World|Iyim]] city, **save it — and are betrayed the moment it's safe.** A deadly secret must be **buried in blood**, and they fight their way **home** — two of them dying so the other two can carry the truth back to Earth. Behind enemy lines the whole way.
 

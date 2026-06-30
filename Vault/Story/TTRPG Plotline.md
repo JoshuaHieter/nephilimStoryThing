@@ -27,7 +27,7 @@ status: draft
 
 ## Frame / structure
 
-- Likely a **survival sandbox.** (System options were sketched earlier — Year Zero / d100 / grimdark, etc.)
+- **System:** a heavily-customized **[[Forbidden Lands Conversion|Forbidden Lands]]** (Year Zero) hack — a survival sandbox.
 - Beats are **loose and emergent**, not fixed.
 
 ## Open questions

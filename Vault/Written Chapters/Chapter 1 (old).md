@@ -1,0 +1,16 @@
+\*WHAM WHAM WHAM*
+Konrad Schreiber stood impatiently as, yet again, his knocking had been left unanswered.
+"Hello?  Hello?  Anyone in there?" he shouted in what he figured was perfect Italian.  Although he hadn't practiced in a long time, Konrad's linguistic skills were unmatched by anyone in Christendom and he certainly would never forget such a crude language.  Frustrated, he resorted to all but screaming in his native tongue,
+"Mister Antichrist!?  Are not even your devilish servants tending you?  Are you busy consulting Satan on how best to persecute the true followers of Christ?  You send a letter to your sworn enemy to show up at this very church at this very time and yet have not the decency to answer?"
+Before he could muster up his next insult, Konrad felt a firm hand come to rest on his shoulder.  Turning to his left and looking up, Konrad saw a tall, burly Italian man, probably in his mid fifties with gray hair and a warm smile.
+"I was always told German was an angry language, I never got to experience such joys until hearing you scream from halfway across town" said the stranger, somehow not bothered by Konrad's outburst.
+Konrad's cheeks immediately flushed "Well I'm glad Italian is your only language as I think you might have found my words distasteful, deserving of them as you are.  Are you the man who sent me a letter that is hypothetically from the Pope?  I didn't quite believe it, but who am I to turn down a chance to meet with the king of heretics himself?"
+The Italian's smile quickly faded at Konrad's description of the Pope "I would appreciate you not referring to His Holiness as such, but I can't pretend I'm terribly surprised.  To answer your question, no I am not the man who sent the letter, that was truly done by the Pope himself.  However, I am the man sent to represent him"
+
+"His cowardice never ceases to disappoint.  May I at least have the name of this so-called messenger?"
+
+"I am Don Bartolomeo della Croce, former captain of the Knights Hospilators of Rhoades, now lowly priest of Galfondo.  I have been called, same as you, to investigate the oddity that has been placed in my humble parish"
+
+Before Konrad could react, the priest turned the key, unlocked the door, and revealed the purpose as to why these men had been summoned.  Inside the parish foyer was a long stone slab, eight feet or so in length, and on it a humanoid corpse that was somehow almost too large for its resting piece.  Its garments were unlike anything he had ever seen, made from materials he recognized, but from a culture that not only he had not witnessed, nor had he even heard of.  More interestingly to Konrad, in front of the body was an opened strongbox with a book inside it.  No, not a book, more like a diary with its plain cover and notes sticking out of it, and is that, Hebrew characters?  Suddenly, the giant corpse on a stone slab seemed completely unworthy of note.  Bartolomeo reached after him, but Konrad was too quick.  He rushed forward, scooped up the diary and immediately started flipping through its pages.
+
+He could hear Bartolomeo talking about how this is why Konrad was brought here, but to him, it was all background noise.  Each page filled with Hebraic letters in combinations he had never seen, though he recognized some of the more common words. 

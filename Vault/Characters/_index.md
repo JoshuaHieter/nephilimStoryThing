@@ -7,7 +7,7 @@ Map of all characters. Use [[Templates/Character|the Character template]] for ne
 ## List
 
 ### The 1500s crew
-*Era: **late 1520s** — after Luther (1517), so the Reformation is splitting Christendom and a Lutheran exists; but **before England's 1533–34 break with Rome**, so an English Catholic on a papal mission raises no flags.*
+*Era: **1528** (the book's title). After Luther (1517), so a Lutheran exists; the Pope is fresh from the 1527 Sack of Rome; but **before England's 1533–34 break with Rome**, so an English Catholic on a papal mission raises no flags.*
 
 - [[The Chaplain-Knight]] — **Don Bartolomeo della Croce** — leader; Italian survivor of Rhodes, zealot, most loyal to the Pope
 - [[The Lutheran]] — **Konrad Schreiber** — belligerent mid-20s super-genius; self-taught Hebraist & Luther disciple; the one who can crack the diary

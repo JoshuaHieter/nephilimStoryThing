@@ -6,6 +6,7 @@ The game system, core mechanics, and house rules.
 
 ## Core
 
+- [[Forbidden Lands Conversion]] — the ruleset: a heavily-customized Forbidden Lands (Year Zero) hack for the [[TTRPG Plotline]]
 - 
 
 ## House rules
