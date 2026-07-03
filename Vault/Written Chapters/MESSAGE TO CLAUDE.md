@@ -1,1 +1,5 @@
-DO NOT TOUCH ANY OF THIS FOLDER.  THIS IS MY WRITING.  YOU MAY REFERENCE IT AND MAKE SUGGESTIONS, especially for grammar or spelling mistakes, BUT YOU MAY NOT, UNDER ANY CIRCUMSTANCE, EDIT ANY FILE IN THIS FOLDER
+This folder is MY writing.
+
+You may always reference it and make suggestions — especially for grammar or spelling.
+
+DO NOT edit any file in this folder WITHOUT MY EXPRESS PERMISSION. If I explicitly ask you to make changes or edits (e.g. "fix the typos," "apply those edits"), you may. Otherwise, suggest only.
