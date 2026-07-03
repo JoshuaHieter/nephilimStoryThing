@@ -1,0 +1,16 @@
+{
+  // Binds this static site (built into ./public by Quartz) to the domain.
+  // `custom_domain: true` makes Cloudflare auto-create the DNS record, so you
+  // don't need to add routes or a workers.dev subdomain manually.
+  "name": "ofgiantsandgrasshoppers",
+  "compatibility_date": "2025-06-01",
+  "assets": {
+    "directory": "./public"
+  },
+  "routes": [
+    {
+      "pattern": "ofgiantsandgrasshoppers.us",
+      "custom_domain": true
+    }
+  ]
+}
