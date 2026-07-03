@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Written Chapters/Chapter 1.md",
+                "file": "Written Chapters/Chapter 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1"
+              "title": "Chapter 3"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Written Chapters/Chapter 1.md",
+                "file": "Written Chapters/Prologue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 1"
+              "title": "Backlinks for Prologue"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Written Chapters/Chapter 1.md",
+                "file": "Written Chapters/Prologue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 1"
+              "title": "Outgoing links from Prologue"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Written Chapters/Chapter 1.md",
+                "file": "Written Chapters/Prologue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 1"
+              "title": "Outline of Prologue"
             }
           }
         ]
@@ -179,30 +179,23 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "142d57f10ee7a1e6",
   "lastOpenFiles": [
-    "Written Chapters/Chapter 1 (old).md",
+    "Written Chapters/Chapter 2.md",
+    "Written Chapters/Chapter 3.md",
     "Written Chapters/Chapter 1.md",
+    "Written Chapters/Chapter 1 (old).md",
     "Written Chapters/Prologue.md",
-    "Story/Book — Chapter Summaries.md.tmp.32280.ee65b81a60e0",
-    "Story/TTRPG Plotline.md.tmp.32280.1c16c173177b",
-    "Rules & Mechanics/_index.md.tmp.32280.f43fddd0b6a3",
     "Rules & Mechanics/Forbidden Lands Conversion.md",
-    "Rules & Mechanics/Forbidden Lands Conversion.md.tmp.32280.063000433cf4",
-    "Characters/The Lutheran.md",
-    "Characters/The Chaplain-Knight.md",
-    "Story/Book — Chapter Summaries.md",
+    "Story/Book Plotline.md.tmp.32280.b52cd53b4664",
+    "Story/_index.md.tmp.32280.dd4cdda5a96b",
+    "index.md.tmp.32280.3c8e991d7469",
     "Written Chapters/MESSAGE TO CLAUDE.md",
-    "Factions/The Saraïm Priesthood.md.tmp.32280.0567d62ddacd",
-    "Factions/The Saraïm Priesthood.md.tmp.32280.e0da95edc8ef",
-    "Factions/The Saraïm Priesthood.md.tmp.32280.cdfa4a40f398",
-    "Characters/_index.md.tmp.32280.24f15babc7ea",
-    "Story/Book Plotline.md.tmp.32280.9500315d74b1",
-    "index.md.tmp.32280.2335a2a6db87",
+    "Story/Book — Chapter Summaries.md",
+    "Written Chapters",
     "Lore & History/The Morning Star.md",
     "Story/_index.md",
     "Templates/Session Log.md",
@@ -214,6 +207,12 @@
     "Lore & History/Nephilim Biology & Caste.md",
     "Lore & History/Setting Principles.md",
     "Lore & History/The Crossing.md",
+    "Story/Book — Chapter Summaries.md.tmp.32280.a7ecff888b36",
+    "Story/_index.md.tmp.32280.92edffafd866",
+    "Story/Book — Chapter Summaries.md.tmp.32280.1370a6f5f045",
+    "Characters/The Outcast Scholar.md.tmp.32280.974838536c93",
+    "Characters/The Outcast Scholar.md.tmp.32280.7d7fa381571d",
+    "Characters/The Outcast Scholar.md.tmp.32280.5bf555a3d128",
     "Locations/Pātuna.md",
     "Locations/Zebul.md",
     "Factions/The Saraïm Priesthood.md",
