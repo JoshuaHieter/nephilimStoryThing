@@ -1,0 +1,12 @@
+# Quartz build artifacts.
+# NOTE: content/ is NOT ignored — Quartz's file scan respects .gitignore, so
+# ignoring content/ makes the build find 0 pages. content/ is a copy of
+# "Vault/quartz chapters" refreshed on every build (local & Cloudflare).
+node_modules/
+public/
+.quartz/
+.quartz-cache/
+
+# OS
+.DS_Store
+Thumbs.db
