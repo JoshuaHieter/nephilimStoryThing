@@ -12,7 +12,7 @@ status: draft
 ## At a glance
 
 - **Role:** **leader** of the 1500s mission; its spiritual authority and its sword
-- **Age:** a little over **50**
+- **Age:** **almost sixty**
 - **From:** Italy; now serves a parish **just north of Rome**
 - **Faith:** **very** Catholic — a true believer, a zealot
 - **Status:** alive
@@ -22,7 +22,7 @@ status: draft
 ## Background
 
 - He fought as a **chaplain-knight** of the **Knights Hospitaller** and **survived the Siege of Rhodes (1522)** — the legendary defeat that left the Order homeless.
-- **He left the Order** for two reasons: it **no longer had a home** (this is the **mid-1520s**, before the Order was given Malta in 1530), and he was **getting older** — a little over fifty.
+- **He left the Order** for two reasons: it **no longer had a home** (this is the **mid-1520s**, before the Order was given Malta in 1530), and he was **getting older** — almost sixty.
 - He settled as a **local priest just north of Rome**, and his history made him **a bit of a local legend** — the old knight who lived through Rhodes.
 
 ## Why he's on the mission
