@@ -26,13 +26,13 @@ As he entered the monastery study room he had been led to, he was greeted by a v
 
 "So my superiors, rather than trying to find or train someone willing, decided to capture a heretic and force him to do the work for us."
 
-"I believe it is you who is the papist heretic, but I doubt I can persuade you on the matter.  Either way, your observation is correct.  I was lured by claims of an original copy of Isaiah only to find this alien text instead.  I am actually making quite good progress and would love to show you if you could just help me with—"  The Protestant jangled his bindings.
+"I believe it is you who is the papist heretic, but I doubt I can persuade you on the matter.  Either way, your observation is correct.  I was lured by claims of an early manuscript of Isaiah only to find this alien text instead.  I am actually making quite good progress and would love to show you if you could just help me with—"  The Protestant jangled his bindings.
 
 "May I at least know your name?"
 
 "Konrad Schreiber, unwillingly at your service."
 
-Initially hesitant to unshackle him, Bartolomeo took the manacles in hand and found they had never been locked at all.  They came away in a single pull.  Whoever had put them on the German had meant them to be felt, not to hold, and the German had plainly been delighted to wear them.  Boyish limbs with muscles trained to write, not fight, gave Bartolomeo the confidence to leave them off and let the prisoner — if that was still the word — give his explanation.
+Initially hesitant to unshackle him, Bartolomeo took the manacles in hand and found they had never been locked at all.  They came away in a single pull.  Whoever had put them on the German had meant them to be felt, not to hold, and the German had plainly been delighted to wear them.  Boyish limbs with muscles trained to write, not fight, gave Bartolomeo the confidence to leave them off and let the prisoner, if that was still the word, give his explanation.
 
 "Much better.  Let me lead you to the body, and I'll explain along the way."
 
