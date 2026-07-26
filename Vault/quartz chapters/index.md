@@ -12,3 +12,4 @@ A rough draft, updated as I write. Start here:
 - [[1|Chapter One]]
 - [[2|Chapter Two]]
 - [[3|Chapter Three]]
+- [[4|Chapter Four]]

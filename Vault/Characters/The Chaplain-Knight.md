@@ -7,7 +7,7 @@ status: draft
 
 # The Chaplain-Knight
 
-> **Don Bartolomeo della Croce.** An Italian survivor of Rhodes, a former Knight Hospitaller chaplain turned village priest, called by the Pope to **lead** the mission. The zealous, devout heart of the crew, and its most loyal man.
+> **Don Bartolomeo della Croce.** An Italian hero of Rhodes — the Knight Hospitaller who **held the Post of Italy** through the siege — ordained a priest after the Order lost its home, and called by the Pope to **lead** the mission. The zealous, devout heart of the crew, and its most loyal man.
 
 ## At a glance
 
@@ -16,7 +16,8 @@ status: draft
 - **From:** Italy; now serves a parish **just north of Rome**
 - **Faith:** **very** Catholic — a true believer, a zealot
 - **Status:** alive
-- **Former order:** Knights Hospitaller (Order of St. John) — as a **chaplain-knight** (a priest who also fought)
+- **Former order:** Knights Hospitaller (Order of St. John) — a **knight of justice** (the warrior class); a commander, and **captain of the Post of Italy** during the siege
+- **Fame:** a **celebrity** — the siege pamphlets carried "the man who held the Italian post" across Christendom
 
 ## Background
 

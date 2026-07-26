@@ -13,7 +13,7 @@ status: draft
 
 ---
 
-## Prologue — *Penuel* *(~0%)*
+## Prologue — *Penuel* *(~0%)* — **written**
 **POV:** [[The Outcast Scholar|Penuel]] (the Nephilim scholar).
 - Establish Penuel: a pure-Nephilim outcast of [[Saraïm]], a devout Morning-Star worshipper — but a **heretic among heretics**, who has decided (from the cultures' *conflicting* Earth-myths) that **Earth survived** and that **Satan may still live there.**
 - His resolve: cross **alone, in a tiny boat**, to seek the Morning Star **face to face** — defying his people's dogma that Earth is rubble and their god long dead.
@@ -61,7 +61,7 @@ status: draft
 - **[S]** He's **writing as he goes** — "a record, for whoever finds it" — never dreaming **small folk** will. Eerie.
 - **[S/T]** Carries a **token** (a caste-signet, a Morning-Star icon, an antler-shard) that's **on his body** when he washes up.
 
-## Ch 1 — Konrad, and the bait *(Konrad only — slower)*
+## Ch 1 — Konrad, and the bait *(Konrad only — slower)* — **written**
 **POV:** [[The Lutheran|Konrad]]. *(The only one of the main four in this chapter.)*
 - **Open on him translating** — in his element: the young Lutheran Hebrew prodigy at his desk in Germany, deep in his life's work (rendering the **Old Testament** from the source). Establish him **slowly** — his **genius, obsession, belligerence, Luther-fervor, prickly solitude** — before the plot grabs him.
 - **The bait:** someone he knows brings word of an offer — **extraordinarily *original* copies of the Old Testament** (ancient Hebrew, closer to the source than anything he's seen). The one lure a man like Konrad cannot refuse.
@@ -70,30 +70,39 @@ status: draft
 - Lands on the hook: the heretic, lured by the *papists* through his love of the very **Word of God** — manipulated, furious, and drawn toward **talks with the Vatican.** *(The real offer — the diary — comes next.)*
 - *Open:* who's the **acquaintance** (innocent dupe, or paid to set him up)? who fronts the bait? are the "original OT" manuscripts **wholly fake, or a lesser shadow of the truth** (the diary)?
 
-## Ch 2 — The Vatican's true offer: the diary *(the reveal)*
-**POV:** [[The Lutheran|Konrad]] *(continuing)* — **or** cut to [[The Chaplain-Knight|Bartolomeo]] for his introduction *(choose — see note).*
-- Drawn into the Vatican's talks, Konrad meets the Pope's apparatus — including **[[The Chaplain-Knight|Bartolomeo]]** — and learns the manuscripts were a lure.
-- **The real offer:** the **giant non-human corpse** and **[[The Outcast Scholar|Penuel]]'s diary** — a tongue that **clearly descends from ancient Hebrew but has drifted far** (a relic of a Hebrew-kindred *antediluvian* tongue — stranger and greater than the bait he chased).
-- His **revulsion** (a soulless, impossible thing) at war with his **linguistic hunger.** He agrees — *not for the Pope, for the diary.*
-- The **"Fra'"/"Don"** needle with Bartolomeo begins; the mission's mandate is laid out.
-- First cracks of the diary — a creature that **crossed seeking Satan**, hints that **Earth survived** — may begin here or carry into Ch 3. *(Reader knows it's Penuel.)*
+## Ch 2 — Bartolomeo's summons *(written)*
+**POV:** [[The Chaplain-Knight|Bartolomeo]].
+- The confessional just north of Rome; the old knight daydreaming of Rhodes through the penitents' sins.
+- A messenger in the confessional: *"the Vatican has a job for you"* — the Pope's letter: a **boat of no human origin** off western Italy, a **giant's body**, a **diary in an unknown tongue** — and command of the mission once its origin is found.
+- Closes on his David-and-the-giant resolve: he will be the next servant of the Lord to slay a giant.
 
-> **Bartolomeo's introduction:** with Ch 1 now Konrad-only, his old "called to lead" chapter is gone. Either introduce him **through Konrad's eyes here** and give him a POV chapter later, or make **this** one **his POV.** *(The Drake and Mateus recruitments, then the departure & crossing, follow — numbering shifts down, which is fine.)*
+## Ch 3 — The cardinal's bargain *(written)*
+**POV:** [[The Lutheran|Konrad]].
+- The cardinal drops the pretense: no Isaiah — a **giant**, a **boat**, a **diary in drifted Hebrew.** The mission, or the stake.
+- Konrad would sooner burn than serve the Antichrist — so the cardinal plays the real card: quiet **decriminalization of possessing the vernacular Word.** No copies, no imports, no announcement — but no more fires for that crime.
+- Konrad accepts, gladly and bitterly at once: *"Show me the diary."*
 
-## Ch 3 — Drake commissioned *(Europe)*
+## Ch 4 — Bartolomeo comes to Rome *(planned — longer chapter, ~1,500–2,000 words)*
+**POV:** [[The Chaplain-Knight|Bartolomeo]].
+- **Arrival as a celebrity:** the hero of Rhodes — **the man who held the Post of Italy** — recognized and feted on his way in; the Pope's apparatus receives its commander. *(New canon: knight of justice first, ordained after the Order lost its home — see [[The Chaplain-Knight]].)*
+- **Scene 1 — the heretic:** introduced to his translator, the captive Lutheran. The **"Fra'"/"Don"** needle begins on the spot. Privately, Bartolomeo takes the pairing as a **test God has set him** — distasteful, providential; endure the German, or convert him.
+- **Scene 2 — the corpse, together:** the two view [[The Outcast Scholar|Penuel]]'s body side by side. The comfortable Sethite reading ("corrupt men, not monsters") dies on the slab. First flicker of common ground across the confessional divide: whatever this thing is, it is *both* their enemy.
+- **Scene 3 — the diary's first fruits:** Konrad, in his element, lays out what he's pulled from the diary: the creature **crossed on purpose, seeking the Morning Star** — and Konrad **almost has the star-method figured out** (which star it steered by; how the crossing works, outbound). The mission stops being an idea and becomes a **heading.** A captain is needed next. *(The **full** method — including the way home — stays Konrad's mid-book work; see [[The Crossing]].)*
+
+## Ch 5 — Drake commissioned *(Europe)*
 **POV:** [[The Captain|Drake]].
 - Establish Drake: renowned English sea-captain, early 40s — worldly, irreverent, nominally Catholic; his **elite crew is his pride.**
 - Commissioned to **command the ship** — chosen for his crew, the best afloat. Religion isn't why; competence is.
 - Establish the ship, the crew, his pragmatism and contempt for the holy fuss. *(Quietly seed the survivor's-guilt to come — these men he's about to lead to their deaths.)*
 
-## Ch 4 — Mateus off the gallows / Departure *(~9%)*
+## Ch 6 — Mateus off the gallows / Departure *(~9%)*
 **POV:** [[The Pirate|Mateus]].
 - Establish Mateus: Portuguese street-urchin, reluctant ex-voodoo-pirate — the **only human who's crossed and lived** (his doomed crew, the monsters, most eaten).
 - His ordinary-pirate crew **raids the mission's ship** as it prepares to sail → **crushed and captured** by Drake's crew → the **gallows.**
 - A prisoner, he **overhears the star-talk**, realizes he knows too much and is too valuable → **reveals he's crossed and lived** → hauled aboard. *Mission or noose.*
 - **They sail.** Team complete, frictions live, the last of Earth dropping behind.
 
-## Ch 5 — The crossing & the slaughter *(~12%)*
+## Ch 7 — The crossing & the slaughter *(~12%)*
 **POV:** [[The Captain|Drake]]. *(His crew, his guilt — strongest lens for the slaughter.)*
 - Far water; the **world-stars appear**; the crew's **dread of the star.** Drake drives them on by command and faith in the stolen method.
 - The **crossing**: sea unchanged, the **sky swapping over**, the eerie passage through **sea limbo**. Mateus's terror — he alone knows.
