@@ -15,7 +15,8 @@ status: draft
 - **From:** England
 - **Age:** **early forties**
 - **Family:** a son, **[[#Francis|Francis]]**, **seven years old** — aboard with him during the battle in Ch 5
-- **Ship:** the ***Christofer*** — a saint's name he doesn't believe in. St. Christopher is the patron of travellers: a man who carries a burden across the water that proves far heavier than it looks. *(Type still open.)*
+- **Ship:** the ***Christofer*** — a **bark**: small, fast, handy, the true West Country privateer's tool. A saint's name he doesn't believe in — St. Christopher, patron of travellers: a man who carries a burden across the water that proves far heavier than it looks.
+- **The mission ship is a different, bigger hull** — the Vatican believed reaching the star took a great ship ([[The Crossing#You don't need a big ship]]), so the commission provides one. The bark's two-to-one win is what proves the *crew*; the mission then buys them a ship to match its own expectations. *(Open: the mission ship's name and type — and whether the* Christofer *name or the bark itself stays behind with Francis.)*
 - **Faith:** **nominally Catholic** — but he doesn't much care, beyond **appearances and custom**
 - **Status:** alive
 - **Brings:** an **elite crew**, plus a lifetime of **naval command, navigation, and battle**
