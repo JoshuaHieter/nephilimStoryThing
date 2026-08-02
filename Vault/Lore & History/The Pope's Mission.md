@@ -34,7 +34,7 @@ So what they actually hold is modest: a **non-human corpse**, a **dawning awaren
 
 ## How the voyage is crewed (and why)
 
-The mission sails on a **proper ship with a full, ordinary crew.** *(In truth a small boat would have done — the crossing only needs you **out of sight of land**, not an ocean away — but they **didn't know that.** Reverse-engineering the diary, they assumed a long blue-water voyage and prepared for one. A reasonable mistake — see [[The Crossing#You don't need a big ship]].)*
+The mission sails on a **proper ship with a full, ordinary crew** — [[The Captain|Drake]]'s own carrack, the ***Christofer***. *(In truth a small boat would have done — the crossing only needs you **out of sight of land**, not an ocean away. Rome even had the proof at the Tiber quay: Penuel's tiny wreck. But a dead pilot and a crashed boat read as a **warning, not a proof of concept** — and the diary promises monster-seas on the far side. A great armed ship was the rational answer to everything they knew — see [[The Crossing#You don't need a big ship]].)*
 
 - The four principals are the **away team**; the **small boat** is for landing and investigation.
 - The **monsters thin the big crew to four** regardless of how they'd traveled.

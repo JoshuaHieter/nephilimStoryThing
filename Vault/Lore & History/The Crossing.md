@@ -40,8 +40,8 @@ Sea limbo isn't a trap, and it isn't quite featureless:
 The trigger is only **getting out of sight of land** (step 1) — *not* crossing an ocean. So in truth a **small boat is enough:** get a skiff beyond the horizon, aim at your star, and cross. The danger was never the *distance* — it's **ignorance** (wrong star, lost in sea limbo) and the **monster-seas** you arrive in.
 
 - **Proof:** [[The Outcast Scholar]] crossed to Earth **alone, in a tiny boat** (he knew the method; he died of poor seamanship and the crash, not the crossing).
-- **But the [[The Pope's Mission|mission]] didn't know that.** Reverse-engineering the diary, they assumed a long ocean voyage and brought a **full ship and crew** — a reasonable mistake. (The monsters thinned them anyway.)
-- **It's how two survivors get home:** a stolen skiff, [[The Captain|Drake]]'s seamanship, and [[The Lutheran|Konrad]]'s cracked method are all it takes — see [[Book Plotline]].
+- **But the [[The Pope's Mission|mission]] read the proof backwards.** Rome *had* the evidence — Penuel's tiny wreck, hauled to the Tiber quay — and drew the survivor's-logic conclusion: a **dead pilot and a crashed boat aren't a proof of concept, they're a warning.** *(They can't know he died of poor seamanship, not the crossing — all they have is the outcome.)* On top of that, the diary describes the **monster-seas** they'd be sailing *into* (the water Penuel was fleeing *out of*), and with the method only half-cracked nobody knows how long the passage runs or whether there's anywhere to resupply. So: a **great ship, guns, and a full crew** — the rational answer to everything they knew. (The monsters thinned them anyway.)
+- **It's how two survivors get home:** a stolen skiff, [[The Captain|Drake]]'s seamanship, and [[The Lutheran|Konrad]]'s cracked method are all it takes — see [[Book Plotline]]. *The book ends with the two of them doing exactly what Rome looked at a dead man's boat and refused to learn.*
 
 ## A real method — that humans don't have
 
