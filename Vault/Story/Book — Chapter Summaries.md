@@ -89,11 +89,56 @@ status: draft
 - **Scene 2 — the corpse, together:** the two view [[The Outcast Scholar|Penuel]]'s body side by side. The comfortable Sethite reading ("corrupt men, not monsters") dies on the slab. First flicker of common ground across the confessional divide: whatever this thing is, it is *both* their enemy.
 - **Scene 3 — the diary's first fruits:** Konrad, in his element, lays out what he's pulled from the diary: the creature **crossed on purpose, seeking the Morning Star** — and Konrad **almost has the star-method figured out** (which star it steered by; how the crossing works, outbound). The mission stops being an idea and becomes a **heading.** A captain is needed next. *(The **full** method — including the way home — stays Konrad's mid-book work; see [[The Crossing]].)*
 
-## Ch 5 — Drake commissioned *(Europe)*
+## Ch 5 — Two to one *(Europe)*
 **POV:** [[The Captain|Drake]].
-- Establish Drake: renowned English sea-captain, early 40s — worldly, irreverent, nominally Catholic; his **elite crew is his pride.**
-- Commissioned to **command the ship** — chosen for his crew, the best afloat. Religion isn't why; competence is.
-- Establish the ship, the crew, his pragmatism and contempt for the holy fuss. *(Quietly seed the survivor's-guilt to come — these men he's about to lead to their deaths.)*
+
+> **Two parts, split by a time jump** (the [[#Ch 1 — Konrad, and the bait *(Konrad only — slower)*|Ch 1]] model — one clean sentence at a paragraph break, *"Three months later…"*). **Part One is the battle. Part Two is the consequence of the battle** — the printed account of it reaches Rome, and *that* is why he is called.
+
+### Part One — the fight *(open cold, already at sea)*
+
+- **No preamble.** Drop the reader straight into the engagement. The chapter's job is not to argue that Edmund is the best afloat — it's to **show** it, and let the commission become obvious.
+- **One ship against two**, **Imperial/Spanish**, and he **wins handily** — because he never actually fights two ships. **He fights one ship, twice.** (See the macro below.)
+- **Seven-year-old [[The Captain#Francis|Francis]] at his father's side** for the whole action, watching and asking questions. His questions are the chapter's **exposition engine** — Edmund explains the sea, the guns, the enemy and himself to a child, and the reader gets all of it for free, in the voice of a man who is good at something and likes being asked about it.
+- **Name some of the crew.** [[#Ch 7 — The crossing & the slaughter *(~12%)*|Ch 7]] eats them. This chapter is where the **survivor's guilt is bought**, and it only works if the reader knew two or three of the men by name.
+- Establish his **pragmatism, irreverence, and contempt for the holy fuss** — nominally Catholic, feeling nothing much behind the forms.
+
+### The fight, beat by beat
+
+*Setting: the Western Approaches — the corner every Spain-to-Flanders hull has to turn (Ushant / the Lizard / the Scillies). Edmund is **privateering under letter of marque**: England declared war on Charles V in **January 1528**, so Imperial shipping is legal prey. Sighting at dawn; decided by evening. A chase takes **all day** — that slowness is the chapter's rhythm.*
+
+1. **Sighting.** Two sails to the south, hull down. **Colours are meaningless** — false flags are legal right up to the moment you fire — so identity is a guess until you close. Edmund reads them by **rig and how deep they sit**: laden. *(Francis: how can you tell?)*
+2. **The bad news.** Two big **Biscayan naos** in company, Flanders-bound. Legal prey — and one more than he wants. His officers expect him to sheer off.
+3. **The problem, stated plainly.** Together they're too much: combined guns, combined men, and he can't board one without the other coming down on his stern. **He has to separate them, and wind is the only tool that separates ships.**
+4. **He runs.** Helm up, away to the northeast, playing the frightened Englishman — but **at a pace calculated to stay catchable.** Clumsy sail-handling on purpose. *(Francis: "Why are we running away?" → "We aren't.")*
+5. **They take it — and here is the real skill: he is reading *men*, not just wind.** Under the same war an English hull is *their* legal prize too. **One master is greedy and gives chase hard; the other is cautious and hangs back.** That difference in temperament — not physics — is what strings them out. Edmund guessed there'd be one of each.
+6. **Hours pass, and the gap opens** to a mile, then two. **This is where the crew lives on the page:** eating, laying out match and shot, an old hand telling a bored seven-year-old things his father wouldn't. *(Name them here.)*
+7. **The turn.** When the trailing nao is far enough back that she'd need hours to work up, Edmund **wears ship** (turns *downwind* — square-riggers of 1528 tack badly) and comes back on the leader — on a track that puts him **upwind of her. The weather gauge.**
+8. **Too late for her.** To rejoin her consort she'd have to **beat to windward**, which she does badly and slowly; the consort, two miles to leeward, starts clawing up and will not arrive in time. **The window is bought.**
+9. **First pass — rigging, not hull.** Not a hull-smashing broadside — **bar shot and langrage fired high**, into the standing rigging. The main yard comes down / the halyards part and her main course collapses. **She is a barn floating downwind, and still worth full price.** From windward, his smoke rolls onto her.
+10. **The archers.** He ranges alongside and holds there. **Longbowmen in the tops and castles** empty her waist — the English edge in 1528, several times the rate of fire of an arquebus — while the swivel pieces (**bases, murderers**) rake the deck. *(Quieter and worse than the guns: no thunder, just arrows and men going down. **This is where Francis stops enjoying it.**)*
+11. **Grapple and board.** Netting cut, grapples bite, his fighting men go across — **more of them, better armed, against sailors.** Brief. The Spanish master strikes; **merchant crews don't die for someone else's cargo.**
+12. **Prize crew aboard**, and he turns on the consort — who has spent the entire battle trying to claw up to windward and is still short.
+13. **She strikes too.** Seeing her consort taken and an intact Englishman coming down with the wind, she doesn't try it. **Two prizes** — which matters, because Part Two runs on how good this reads in print.
+14. **Aftermath.** The cost is light: a few dead, some wounded, no serious damage. **The arithmetic of the day is profit.** Close on Francis — who has just watched his father beat two-to-one odds without breaking a sweat, and now believes the man is **invincible.** *(Which is precisely what [[#Ch 7 — The crossing & the slaughter *(~12%)*|Ch 7]] destroys.)*
+
+> **Period notes — keep it 1528, not 1805.** Nobody tries to **sink** anyone: a ship is a **prize**, and prizes are the point. Guns **soften**; **boarding decides.** Ships are floating castles — raised fore/sterncastles as fighting platforms, **anti-boarding netting** over the waist, fighting tops with archers and swivel guns.
+> **No line of battle** (that's the 1650s), **no sustained broadside duelling**, **no ship's wheel** (the **tiller is on the deck below and the helmsman cannot see** — he steers on relayed shouts; *Francis could be the one calling down the hatch*), **no telescope** (1608), no rating system, no standing navy as an institution.
+
+### Part Two — the pamphlet, and the commission
+
+- ***Three months later.*** Long enough for news to reach Rome, for the Vatican to argue, and for a messenger to come back. *(Ch 1 spent a month on a wagon from Germany to Italy — this should read as visibly longer.)*
+- **The press is why he's called.** A printed account of the two-to-one victory travels. **This is already the book's mechanism, twice over:** [[The Lutheran|Konrad]] is baited with "one of the newfangled sheets mass-produced from a printing press" ([[#Ch 1 — Konrad, and the bait *(Konrad only — slower)*|Ch 1]]), and [[The Chaplain-Knight|Bartolomeo]] is a celebrity because the **siege pamphlets** carried his name across Christendom. **The printing press is how the Vatican finds all of its men** — make it a motif rather than a coincidence.
+- **Three men, three reactions to the same technology:** Bartolomeo is **ashamed** of his fame and avoids Rome over it; Konrad is **ruined** by a printed sheet and mourns what the press did to his craft; Edmund is **delighted** by his. That contrast characterizes him faster than description could.
+- **Stage the victory twice.** Once as it happened, and once as the **pamphlet tells it** — garbled, inflated, crediting the wrong manoeuvre. Edmund scoffing at a wrong account of his own battle while **Francis is thrilled by it** is the father-son dynamic in a single beat.
+- **What Rome actually reads in it.** Per [[The Pope's Mission]], the whole point of him is that **his crew is the best afloat** — and a one-against-two victory is evidence about **the men**, not just the man conning the ship. The pamphlet is precisely the thing they're shopping for.
+- **The commission lands.** Chosen for **competence, not creed** — he's nominally Catholic and nobody cares.
+- *Loaded irony in the hire:* Charles V's troops **sacked Rome in 1527** — so [[Pope Clement VII|Clement]] is buying the Englishman who beats Imperial ships.
+
+> **Timeline note (deliberate):** Francis being **seven in 1528** puts his birth at **~1521**, against the historical ~1540. This is a **knowing alt-history choice** — it *is* that Francis Drake, simply born earlier. Nothing else in the setting moves.
+>
+> **Sequencing:** the battle runs **in parallel with [[#Ch 1 — Konrad, and the bait *(Konrad only — slower)*|Ch 1]]–[[#Ch 4 — Bartolomeo comes to Rome *(planned — longer chapter, ~1,500–2,000 words)*|Ch 4]]**; the pamphlet circulates during them; so by the time Ch 4 ends on *"a captain is needed next,"* the name **Edmund Drake is already in the air in Rome.** Part Two lands **after** Ch 4. The chapter stops being a detour and becomes the thing that was loading in the background all along.
+
+- *Open:* **the ship's name and type.** **Which crewmen get names.** Who brings the commission — [[The Chaplain-Knight|Bartolomeo]] (the first time two principals share a page), the cardinal from [[#Ch 3 — The cardinal's bargain *(written)*|Ch 3]], or a legate in England? Does Edmund learn about **the star** now, or is it sprung later ([[The Crossing]])? Where is he when it arrives — **home with Francis** is strongest? Does the chapter already know **Francis stays behind**? And **which port** does the mission fit out in — does Edmund sail to Italy, or does the mission come to England ([[#Ch 6 — Mateus off the gallows / Departure *(~9%)*|Ch 6]] needs a berth)?
 
 ## Ch 6 — Mateus off the gallows / Departure *(~9%)*
 **POV:** [[The Pirate|Mateus]].

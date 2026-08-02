@@ -14,6 +14,7 @@ status: draft
 - **Role:** **master of the ship** and commander of its crew — the man who actually makes the voyage happen
 - **From:** England
 - **Age:** **early forties**
+- **Family:** a son, **[[#Francis|Francis]]**, **seven years old** — aboard with him during the battle in Ch 5
 - **Faith:** **nominally Catholic** — but he doesn't much care, beyond **appearances and custom**
 - **Status:** alive
 - **Brings:** an **elite crew**, plus a lifetime of **naval command, navigation, and battle**
@@ -30,6 +31,18 @@ status: draft
 - His Catholicism is **cultural and for show** — he'll cross himself and keep the forms, and feel nothing much behind them.
 - He is the **competent adult in the room** — and that makes him the natural counterweight to the mission's true believers.
 - **Irreverent to the bone.** When Konrad translates the god-king's title — *[[Zebul|Melek ha-Kokhavim]]*, "King of the Stars" — Edmund hears **"cock have him"** and never lets it go, calling the Melek that for the rest of the book. Levity, and pure contempt for the whole pompous empire.
+
+## Francis
+
+- Edmund has a **seven-year-old son, Francis**, who is **at his side through the naval battle in Ch 5** — watching the engagement and asking questions the whole way through. Those questions are how the reader learns the man.
+- **This is Francis Drake** — the future circumnavigator, deliberately born **~1521** in this setting rather than the historical ~1540. A **knowing alt-history change**; nothing else in the timeline moves.
+- **He does not sail on [[The Pope's Mission|the mission]].** The away team is four adults — and Edmund comes home.
+
+### Open questions
+- Is Francis **habitually aboard** (a captain's son learning the trade), or is this voyage unusual for him?
+- Does the **goodbye** get its own beat — leaving the boy for a voyage Edmund cannot explain and may not survive?
+- Does Francis appear again after Ch 5, or is he a **single-chapter lens**?
+- Does having a son change the **stranding**? A man with a child ashore has a reason to get home that the other three don't.
 
 ## The frictions
 
