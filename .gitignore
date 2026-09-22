@@ -10,3 +10,7 @@ public/
 # OS
 .DS_Store
 Thumbs.db
+
+# Obsidian per-device UI state (synced to phone via Syncthing, not git)
+Vault/.obsidian/workspace.json
+Vault/.obsidian/workspace-mobile.json
