@@ -14,3 +14,8 @@ Thumbs.db
 # Obsidian per-device UI state (synced to phone via Syncthing, not git)
 Vault/.obsidian/workspace.json
 Vault/.obsidian/workspace-mobile.json
+
+# Syncthing (see PHONE.md)
+Vault/.stfolder/
+Vault/.stversions/
+*.sync-conflict-*
