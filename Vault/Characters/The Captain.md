@@ -14,11 +14,12 @@ status: draft
 - **Role:** **master of the ship** and commander of its crew — the man who actually makes the voyage happen
 - **From:** England
 - **Age:** **early forties**
-- **Family:** a son, **[[#Francis|Francis]]**, **seven years old** — aboard with him during the battle in Ch 5
+- **Family:** a **widower** — his wife died, and in their years together she was **never able to conceive**; he has no children of his own. His brother John's boy **[[#Ned|Ned]]** (Edmund, named for him), **seven years old**, is aboard with him during the battle in Ch 5 — and is as near to a son as he has.
 - **Ship:** the ***Christofer*** — a **mid-sized carrack**, big enough to beat two naos and cross an ocean. **One hull carries the whole book:** the Ch 5 fight, the commission, the fitting-out in Ch 6, the crossing — and the monsters eat her in Ch 7. A saint's name he doesn't believe in — St. Christopher, patron of travellers: a man who carries a burden across the water that proves far heavier than it looks. *(Rome is glad she's big: Penuel's tiny wreck on the Tiber quay reads as proof that small boats kill — see [[The Crossing#You don't need a big ship]].)*
 - **Faith:** **nominally Catholic** — but he doesn't much care, beyond **appearances and custom**
 - **Status:** alive
 - **Brings:** an **elite crew**, plus a lifetime of **naval command, navigation, and battle**
+- **Named crew (Ch 5 draft):** **Edgar**, first mate — cautious, church-going, quick to defend Ned, needles Edmund about mass; **Geoffrey**, the man in the crow's nest
 
 ## Why he's on the mission
 
@@ -33,17 +34,38 @@ status: draft
 - He is the **competent adult in the room** — and that makes him the natural counterweight to the mission's true believers.
 - **Irreverent to the bone.** When Konrad translates the god-king's title — *[[Zebul|Melek ha-Kokhavim]]*, "King of the Stars" — Edmund hears **"cock have him"** and never lets it go, calling the Melek that for the rest of the book. Levity, and pure contempt for the whole pompous empire.
 
-## Francis
+## Ned
 
-- Edmund has a **seven-year-old son, Francis**, who is **at his side through the naval battle in Ch 5** — watching the engagement and asking questions the whole way through. Those questions are how the reader learns the man.
-- **This is Francis Drake** — the future circumnavigator, deliberately born **~1521** in this setting rather than the historical ~1540. A **knowing alt-history change**; nothing else in the timeline moves.
+- Edmund is a **widower.** His wife **could never conceive**, and he has **no children of his own.**
+- His brother **John Drake**, a tenant farmer at Crowndale near Tavistock, has a son **Edmund — "Ned"** — named for the captain. Ned is **seven years old** and **at his uncle's side through the naval battle in Ch 5**, watching the engagement and asking questions the whole way through. Those questions are how the reader learns the man.
+- **Ned is as close to a son as Edmund has.** The bond is meant to read as father and son in everything but name — far closer than an ordinary uncle and nephew.
+- **How he came aboard (per the Ch 5 draft):** John **shoved Ned onto the boat** with his brother so he could spend his days teaching his **favourite son** to be the sole heir of the farm. Edmund's view: if John hands the boy over, Edmund decides how he's raised.
 - **He does not sail on [[The Pope's Mission|the mission]].** The away team is four adults — and Edmund comes home.
 
+### The Drake line (historical, kept intact)
+
+Ned grows up to be **Edmund Drake the elder**, farmer and later Protestant preacher — and *his* eldest son is **Francis Drake** (born c. 1540–42), the future circumnavigator. The captain is Francis's **great-uncle.** The historical Drake timeline **does not move.** *(This replaces the earlier alt-history idea of a Francis born ~1521.)*
+
+| | Born | Note |
+|---|---|---|
+| **Captain Edmund Drake** | c. 1485 | early forties in 1528; widower, childless |
+| John Drake (his brother) | c. 1490 | tenant farmer, Crowndale, Tavistock |
+| **Ned** (Edmund, John's son) | c. 1521 | seven in 1528; later a farmer and Protestant preacher |
+| **Francis Drake** (Ned's eldest son) | c. 1540–42 | the circumnavigator; the captain would be ~55 |
+
+*(Dates for John and the elder Edmund are soft — family-history sources disagree by several years — but the line John → Edmund → Francis is solid. Ned being a younger son is also historical: his older brother Richard inherited Crowndale.)*
+
 ### Open questions
-- Is Francis **habitually aboard** (a captain's son learning the trade), or is this voyage unusual for him?
+- Is Ned **habitually aboard** (raised on the deck, the crew his household), or is this voyage unusual for him?
 - Does the **goodbye** get its own beat — leaving the boy for a voyage Edmund cannot explain and may not survive?
-- Does Francis appear again after Ch 5, or is he a **single-chapter lens**?
-- Does having a son change the **stranding**? A man with a child ashore has a reason to get home that the other three don't.
+- Does Ned appear again after Ch 5, or is he a **single-chapter lens**?
+- Does having Ned ashore change the **stranding**? A man with a boy waiting has a reason to get home that the other three don't.
+- When and how did Edmund's wife die? Not yet decided.
+
+### Suggestions (not adopted — pick or discard)
+- **Godfather as well as uncle.** In Tudor England the godparent bond was heavy, and the boy already carries his name; standing godfather would be the period's nearest thing to adoption.
+- **Raised aboard.** The Ch 5 prose already has Edgar "always quick to defend the child" — it reads like a crew that helped raise him. Would also sharpen Ch 7: the eaten crew is Ned's family too.
+- **The later Francis.** If Edmund survives the book he is alive in the house during Francis's childhood — the old man who crossed the star. And historically Ned grows up a hot Protestant, while the captain comes home having taken his *Catholic* faith seriously. A thread the lineage hands you; untouched here.
 
 ## The frictions
 
