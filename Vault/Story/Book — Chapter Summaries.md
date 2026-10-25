@@ -89,17 +89,17 @@ status: draft
 - **Scene 2 — the corpse, together:** the two view [[The Outcast Scholar|Penuel]]'s body side by side. The comfortable Sethite reading ("corrupt men, not monsters") dies on the slab. First flicker of common ground across the confessional divide: whatever this thing is, it is *both* their enemy.
 - **Scene 3 — the diary's first fruits:** Konrad, in his element, lays out what he's pulled from the diary: the creature **crossed on purpose, seeking the Morning Star** — and Konrad **almost has the star-method figured out** (which star it steered by; how the crossing works, outbound). The mission stops being an idea and becomes a **heading.** A captain is needed next. *(The **full** method — including the way home — stays Konrad's mid-book work; see [[The Crossing]].)*
 
-## Ch 5 — Two to one *(Europe)*
+## Ch 5 — Two to one *(Europe)* — **written**
 **POV:** [[The Captain|Drake]].
 
-> **Two parts, split by a time jump** (the [[#Ch 1 — Konrad, and the bait *(Konrad only — slower)*|Ch 1]] model — one clean sentence at a paragraph break, *"Three months later…"*). **Part One is the battle. Part Two is the consequence of the battle** — the printed account of it reaches Rome, and *that* is why he is called.
+> **Decided: the chapter is the battle and nothing else.** It ends where it is, on Ned believing his uncle is invincible. The pamphlet and the commission (once planned as Part Two) **move out of this chapter**. Edmund gets a full chapter of his own later: [[#Ch 8 — Edmund answers the summons *(planned)*|Ch 8]].
 
-### Part One — the fight *(open cold, already at sea)*
+### The fight *(open cold, already at sea)*
 
 - **No preamble.** Drop the reader straight into the engagement. The chapter's job is not to argue that Edmund is the best afloat — it's to **show** it, and let the commission become obvious.
 - **One ship against two**, **Imperial/Spanish**, and he **wins handily** — because he never actually fights two ships. **He fights one ship, twice.** (See the macro below.)
 - **Seven-year-old [[The Captain#Ned|Ned]] at his uncle's side** for the whole action, watching and asking questions. *(Ned is Edmund's nephew and namesake — the widowed, childless captain's son in all but name; see [[The Captain#Ned]].)* His questions are the chapter's **exposition engine** — Edmund explains the sea, the guns, the enemy and himself to a child, and the reader gets all of it for free, in the voice of a man who is good at something and likes being asked about it.
-- **Name some of the crew.** [[#Ch 7 — The crossing & the slaughter *(~12%)*|Ch 7]] eats them. This chapter is where the **survivor's guilt is bought**, and it only works if the reader knew two or three of the men by name.
+- **Name some of the crew.** [[#Ch 10 — The crossing & the slaughter *(~12%)*|Ch 10]] eats them. This chapter is where the **survivor's guilt is bought**, and it only works if the reader knew two or three of the men by name.
 - Establish his **pragmatism, irreverence, and contempt for the holy fuss** — nominally Catholic, feeling nothing much behind the forms.
 
 ### The fight, beat by beat
@@ -119,12 +119,52 @@ status: draft
 11. **Grapple and board.** Netting cut, grapples bite, his fighting men go across — **more of them, better armed, against sailors.** Brief. The Spanish master strikes; **merchant crews don't die for someone else's cargo.**
 12. **Prize crew aboard**, and he turns on the consort — who has spent the entire battle trying to claw up to windward and is still short.
 13. **She strikes too.** Seeing her consort taken and an intact Englishman coming down with the wind, she doesn't try it. **Two prizes** — which matters, because Part Two runs on how good this reads in print.
-14. **Aftermath.** The cost is light: a few dead, some wounded, no serious damage. **The arithmetic of the day is profit.** Close on Ned — who has just watched his uncle beat two-to-one odds without breaking a sweat, and now believes the man is **invincible.** *(Which is precisely what [[#Ch 7 — The crossing & the slaughter *(~12%)*|Ch 7]] destroys.)*
+14. **Aftermath.** The cost is light: a few dead, some wounded, no serious damage. **The arithmetic of the day is profit.** Close on Ned — who has just watched his uncle beat two-to-one odds without breaking a sweat, and now believes the man is **invincible.** *(Which is precisely what [[#Ch 10 — The crossing & the slaughter *(~12%)*|Ch 10]] destroys.)*
 
 > **Period notes — keep it 1528, not 1805.** Nobody tries to **sink** anyone: a ship is a **prize**, and prizes are the point. Guns **soften**; **boarding decides.** Ships are floating castles — raised fore/sterncastles as fighting platforms, **anti-boarding netting** over the waist, fighting tops with archers and swivel guns.
 > **No line of battle** (that's the 1650s), **no sustained broadside duelling**, **no ship's wheel** (the **tiller is on the deck below and the helmsman cannot see** — he steers on relayed shouts; *Ned could be the one calling down the hatch*), **no telescope** (1608), no rating system, no standing navy as an institution.
 
-### Part Two — the pamphlet, and the commission
+> **Timeline note:** the boy is **Ned** — Edmund's **nephew**, his brother John's son, named for him — not Francis. Edmund is a **widower** whose wife could never conceive; Ned is the nearest thing to a son he has. Ned grows up to be **Edmund Drake the elder**, and *his* son, born c. 1540, is **Francis Drake.** The historical Drake timeline is **untouched** — family table in [[The Captain#The Drake line (historical, kept intact)]]. *(This replaces the earlier idea of a Francis born ~1521.)*
+
+- **Decided:** the ship is the ***Christofer***, a **mid-sized carrack** — and she **is the mission ship: one hull carries the whole book** (this fight, the commission, [[#Ch 9 — Mateus off the gallows / Departure *(~9%)*|Ch 9]]'s fitting-out and berth, the crossing — eaten in [[#Ch 10 — The crossing & the slaughter *(~12%)*|Ch 10]]). Saint's name Edmund doesn't believe in — patron of travellers, the man who carries a burden across the water heavier than it looks *(free beat: him explaining to Ned or the Vatican's man why the ship bears it)*. Rome likes that she's big — Penuel's tiny wreck on the Tiber quay reads as proof small boats kill ([[The Crossing#You don't need a big ship]]).
+
+## Ch 6 — Konrad and Bartolomeo *(planned)*
+**POV:** *(open: [[The Lutheran|Konrad]] or [[The Chaplain-Knight|Bartolomeo]])*.
+- **More of the two of them talking.** Picks up after [[#Ch 4 — Bartolomeo comes to Rome *(planned — longer chapter, ~1,500–2,000 words)*|Ch 4]], before the captain arrives.
+- *Open:* whose POV? What do they talk about, and what has shifted between them by the end?
+
+## Ch 7 — Mateus's first crossing *(backstory)*
+**POV:** [[The Pirate|Mateus]] *(presumably)*.
+
+> **Decided: Mateus gets his own backstory chapter** before his crew attacks the mission ship in [[#Ch 9 — Mateus off the gallows / Departure *(~9%)*|Ch 9]]. The beats below come from [[The Pirate]] and [[The Voodoo Pirates]]; nothing new has been added.
+
+- **The urchin.** Mateus grows up a Portuguese **street urchin**, coming up from nothing.
+- **Signing on.** In his early-to-mid teens he's **recruited into a pirate crew**, thinking it will be an **adventure, something fun.**
+- **The weird crew.** The crew turns out to be **deep into voodoo**. He goes along to get by and never believes.
+- **The astrology witch.** She **half-knows the star and the crossing from old legends** ([[The Crossing]]), **overhypes** it and promises **riches**. The crew chases it on her word.
+- **The crossing.** At **sixteen or seventeen**, a few years into his time aboard, he crosses. There's no treasure on the other side, only **sea monsters**. They **turn and run**, and **most of the crew are eaten.**
+- **Home by luck.** A few survivors limp back, Mateus among them. Per [[The Voodoo Pirates]], it was **luck, not power**: they turned the right way. He never set foot on that world's shore.
+- **After.** He puts the voodoo behind him and **drifts into ordinary piracy** through his late teens into his **early twenties**. That's the crew he's running with when Ch 9 opens.
+
+- *Open:*
+  - **Frame:** a straight flashback chapter years earlier, or present-day Mateus remembering it?
+  - **Where it ends:** on the escape, or carried forward to the present, his new crew eyeing the mission ship?
+  - **How much of the monsters to show:** this chapter shows the monsters **before** [[#Ch 10 — The crossing & the slaughter *(~12%)*|Ch 10]] does. Does it show them fully, as a warning the reader carries into Ch 10, or keep them half-seen so Ch 10 still lands as the first real look?
+  - **The witch:** is she named, does she survive, and what did she really know ([[The Voodoo Pirates#Open questions]])?
+  - **The voodoo crew's ship:** does it get a name?
+  - **The other survivors:** are any of them named?
+
+## Ch 8 — Edmund answers the summons *(planned)*
+**POV:** [[The Captain|Drake]].
+
+> **Decided: a full Edmund chapter.** He **gets the letter**, **decides to go**, then **arrives and meets the gang.**
+
+- **The letter.** The Vatican's summons reaches him.
+- **The decision.** He chooses to go.
+- **The arrival.** He shows up.
+- **Meeting the gang.** His first time on the page with [[The Lutheran|Konrad]] and [[The Chaplain-Knight|Bartolomeo]].
+
+### Material carried over *(from the old Ch 5 Part Two; use, cut, or rework)*
 
 - ***Three months later.*** Long enough for news to reach Rome, for the Vatican to argue, and for a messenger to come back. *(Ch 1 spent a month on a wagon from Germany to Italy — this should read as visibly longer.)*
 - **The press is why he's called.** A printed account of the two-to-one victory travels. **This is already the book's mechanism, twice over:** [[The Lutheran|Konrad]] is baited with "one of the newfangled sheets mass-produced from a printing press" ([[#Ch 1 — Konrad, and the bait *(Konrad only — slower)*|Ch 1]]), and [[The Chaplain-Knight|Bartolomeo]] is a celebrity because the **siege pamphlets** carried his name across Christendom. **The printing press is how the Vatican finds all of its men** — make it a motif rather than a coincidence.
@@ -134,21 +174,24 @@ status: draft
 - **The commission lands.** Chosen for **competence, not creed** — he's nominally Catholic and nobody cares.
 - *Loaded irony in the hire:* Charles V's troops **sacked Rome in 1527** — so [[Pope Clement VII|Clement]] is buying the Englishman who beats Imperial ships.
 
-> **Timeline note:** the boy is **Ned** — Edmund's **nephew**, his brother John's son, named for him — not Francis. Edmund is a **widower** whose wife could never conceive; Ned is the nearest thing to a son he has. Ned grows up to be **Edmund Drake the elder**, and *his* son, born c. 1540, is **Francis Drake.** The historical Drake timeline is **untouched** — family table in [[The Captain#The Drake line (historical, kept intact)]]. *(This replaces the earlier idea of a Francis born ~1521.)*
->
-> **Sequencing:** the battle runs **in parallel with [[#Ch 1 — Konrad, and the bait *(Konrad only — slower)*|Ch 1]]–[[#Ch 4 — Bartolomeo comes to Rome *(planned — longer chapter, ~1,500–2,000 words)*|Ch 4]]**; the pamphlet circulates during them; so by the time Ch 4 ends on *"a captain is needed next,"* the name **Edmund Drake is already in the air in Rome.** Part Two lands **after** Ch 4. The chapter stops being a detour and becomes the thing that was loading in the background all along.
+> **Sequencing:** the battle runs **in parallel with [[#Ch 1 — Konrad, and the bait *(Konrad only — slower)*|Ch 1]]–[[#Ch 4 — Bartolomeo comes to Rome *(planned — longer chapter, ~1,500–2,000 words)*|Ch 4]]**; the pamphlet circulates during them; so by the time Ch 4 ends on *"a captain is needed next,"* the name **Edmund Drake is already in the air in Rome.** The letter lands **after** Ch 4, with Ch 6 and Ch 7 also in between. The chapter stops being a detour and becomes the thing that was loading in the background all along.
 
-- **Decided:** the ship is the ***Christofer***, a **mid-sized carrack** — and she **is the mission ship: one hull carries the whole book** (this fight, the commission, [[#Ch 6 — Mateus off the gallows / Departure *(~9%)*|Ch 6]]'s fitting-out and berth, the crossing — eaten in [[#Ch 7 — The crossing & the slaughter *(~12%)*|Ch 7]]). Saint's name Edmund doesn't believe in — patron of travellers, the man who carries a burden across the water heavier than it looks *(free beat: him explaining to Ned or the Vatican's man why the ship bears it)*. Rome likes that she's big — Penuel's tiny wreck on the Tiber quay reads as proof small boats kill ([[The Crossing#You don't need a big ship]]).
-- *Open:* **Which crewmen get names.** Who brings the commission — [[The Chaplain-Knight|Bartolomeo]] (the first time two principals share a page), the cardinal from [[#Ch 3 — The cardinal's bargain *(written)*|Ch 3]], or a legate in England? Does Edmund learn about **the star** now, or is it sprung later ([[The Crossing]])? Where is he when it arrives — **home with Ned** is strongest? Does the chapter already know **Ned stays behind**? And **which port** does the mission fit out in — does Edmund sail to Italy, or does the mission come to England ([[#Ch 6 — Mateus off the gallows / Departure *(~9%)*|Ch 6]] needs a berth)?
+- *Open:*
+  - **Who sends or carries the letter?**
+  - **Where is he when it arrives?** Home with Ned is strongest.
+  - **Ned:** does he stay behind? Is there a goodbye?
+  - **Where does he go, and how?** Rome? Does he bring the *Christofer* with him, or does she follow? This also sets the berth for [[#Ch 9 — Mateus off the gallows / Departure *(~9%)*|Ch 9]].
+  - **The star:** does he learn about it in the letter, on arrival, or later ([[The Crossing]])?
+  - **Meeting the gang:** what's his first read of each of them, and theirs of him?
 
-## Ch 6 — Mateus off the gallows / Departure *(~9%)*
+## Ch 9 — Mateus off the gallows / Departure *(~9%)*
 **POV:** [[The Pirate|Mateus]].
-- Establish Mateus: Portuguese street-urchin, reluctant ex-voodoo-pirate — the **only human who's crossed and lived** (his doomed crew, the monsters, most eaten).
+- Mateus as he is now: Portuguese street urchin and reluctant ex-voodoo-pirate, the **only human who's crossed and lived**. *(The backstory itself is [[#Ch 7 — Mateus's first crossing *(backstory)*|Ch 7]], so this chapter can lean on it rather than retell it.)*
 - His ordinary-pirate crew **raids the mission's ship** as it prepares to sail → **crushed and captured** by Drake's crew → the **gallows.**
 - A prisoner, he **overhears the star-talk**, realizes he knows too much and is too valuable → **reveals he's crossed and lived** → hauled aboard. *Mission or noose.*
 - **They sail.** Team complete, frictions live, the last of Earth dropping behind.
 
-## Ch 7 — The crossing & the slaughter *(~12%)*
+## Ch 10 — The crossing & the slaughter *(~12%)*
 **POV:** [[The Captain|Drake]]. *(His crew, his guilt — strongest lens for the slaughter.)*
 - Far water; the **world-stars appear**; the crew's **dread of the star.** Drake drives them on by command and faith in the stolen method.
 - The **crossing**: sea unchanged, the **sky swapping over**, the eerie passage through **sea limbo**. Mateus's terror — he alone knows.

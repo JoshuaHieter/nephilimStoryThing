@@ -15,7 +15,7 @@ status: draft
 - **From:** England
 - **Age:** **early forties**
 - **Family:** a **widower** — his wife died, and in their years together she was **never able to conceive**; he has no children of his own. His brother John's boy **[[#Ned|Ned]]** (Edmund, named for him), **seven years old**, is aboard with him during the battle in Ch 5 — and is as near to a son as he has.
-- **Ship:** the ***Christofer*** — a **mid-sized carrack**, big enough to beat two naos and cross an ocean. **One hull carries the whole book:** the Ch 5 fight, the commission, the fitting-out in Ch 6, the crossing — and the monsters eat her in Ch 7. A saint's name he doesn't believe in — St. Christopher, patron of travellers: a man who carries a burden across the water that proves far heavier than it looks. *(Rome is glad she's big: Penuel's tiny wreck on the Tiber quay reads as proof that small boats kill — see [[The Crossing#You don't need a big ship]].)*
+- **Ship:** the ***Christofer*** — a **mid-sized carrack**, big enough to beat two naos and cross an ocean. **One hull carries the whole book:** the Ch 5 fight, the commission, the fitting-out in Ch 9, the crossing — and the monsters eat her in Ch 10. A saint's name he doesn't believe in — St. Christopher, patron of travellers: a man who carries a burden across the water that proves far heavier than it looks. *(Rome is glad she's big: Penuel's tiny wreck on the Tiber quay reads as proof that small boats kill — see [[The Crossing#You don't need a big ship]].)*
 - **Faith:** **nominally Catholic** — but he doesn't much care, beyond **appearances and custom**
 - **Status:** alive
 - **Brings:** an **elite crew**, plus a lifetime of **naval command, navigation, and battle**
@@ -64,7 +64,7 @@ Ned grows up to be **Edmund Drake the elder**, farmer and later Protestant preac
 
 ### Suggestions (not adopted — pick or discard)
 - **Godfather as well as uncle.** In Tudor England the godparent bond was heavy, and the boy already carries his name; standing godfather would be the period's nearest thing to adoption.
-- **Raised aboard.** The Ch 5 prose already has Edgar "always quick to defend the child" — it reads like a crew that helped raise him. Would also sharpen Ch 7: the eaten crew is Ned's family too.
+- **Raised aboard.** The Ch 5 prose already has Edgar "always quick to defend the child" — it reads like a crew that helped raise him. Would also sharpen Ch 10: the eaten crew is Ned's family too.
 - **The later Francis.** If Edmund survives the book he is alive in the house during Francis's childhood — the old man who crossed the star. And historically Ned grows up a hot Protestant, while the captain comes home having taken his *Catholic* faith seriously. A thread the lineage hands you; untouched here.
 
 ## The frictions
