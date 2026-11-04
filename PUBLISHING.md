@@ -68,6 +68,6 @@ The site is public by default. To gate it behind a login:
 - `content/`, `node_modules/`, `public/`, `.quartz/` are build artifacts.
   `content/` is committed (a copy of the chapters) because Quartz's file scan
   respects `.gitignore`; it's refreshed on every build.
-- **Repo visibility:** the whole worldbuilding vault lives in this repo. If the
-  repo is **public**, those spoilers are visible on GitHub (the *website* still
-  only shows chapters). Keep the repo **private** if that matters.
+- **Repo visibility:** the repo is **private** (decided 2026-11-04). The whole
+  worldbuilding vault lives in it, but the *website* only shows chapters.
+  See `SYNC.md` for how devices and Claude sessions sync.

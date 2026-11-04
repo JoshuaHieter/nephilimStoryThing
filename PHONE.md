@@ -87,10 +87,8 @@ lost even if the conflict file is deleted by mistake.
 
 ## Open questions
 
-- **The GitHub repo is public** (checked 2026-09-22: the repo page loads without
-  signing in). This doesn't change the sync design (the phone never touches git),
-  but it means every committed chapter is world-readable. Decide whether that's
-  intended; the Quartz site presumably publishes some of it on purpose.
+- ~~The GitHub repo is public~~ Decided 2026-11-04: the repo is made **private**.
+  The website still publishes only the chapters.
 - The Syncthing web UI has no username/password set. It only listens on
   `127.0.0.1`, so nothing off this PC can reach it. Set one under *Actions →
   Settings → GUI* if other people use this Windows account.
