@@ -14,6 +14,7 @@ status: draft
 - **Type:** a country of **one blended bloodline** — Nephilim + the **Ayalim** (stag-folk; [[Kilayim Races]])
 - **Name:** from *toledot*, "generations / lineages"
 - **Defining trait:** a **continuous gradient** from pure Tahorim down to heavily-hybrid Kilayim — and a culture that prizes **the balance**, not the top of the gradient
+- **Territory:** the **third-biggest island** of Rephaim, and not much more
 - **Relations:** **uneasy neighbours** with [[Saraïm]]
 
 ## The Ayalim & the wild ayal

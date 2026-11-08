@@ -12,6 +12,7 @@ status: draft
 ## At a glance
 
 - **Type:** large **aristocratic empire / theocracy** — the continent's dominant power; the ruling pureblood caste *is* the church (church = state)
+- **Territory:** the **centre** of Rephaim, spanning a good deal more land than [[Gibborim]] or [[Toldoth]]
 - **Name:** from *sar*, "noble / prince" → "the Nobles"
 - **Rulers:** a pure **Tahorim** aristocracy
 - **Subjects:** **many different Kilayim** (hybrid) races, **oppressed hard**
