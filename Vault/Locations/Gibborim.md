@@ -27,7 +27,7 @@ status: draft
 
 *(Each power braids faith, culture, and its Earth-story differently. This is the Gibborim's.)*
 
-- **A pantheon that isn't there.** They worship a sprawl of **tribal gods who simply don't exist** — invented spirits and idols, none of them real. *(In this cosmology only the Judeo-Christian powers are real — [[The Morning Star|Satan]], the fallen angels, Yahweh. The Gibborim, lowest of mind, pray hardest to the emptiest heaven.)*
+- **A pantheon that isn't there.** They worship a sprawl of **tribal gods who simply don't exist** — invented spirits and idols, none of them real. *(In this cosmology only the Judeo-Christian powers are real — [[The Morning Star]], the fallen angels, Yahweh. The Gibborim, lowest of mind, pray hardest to the emptiest heaven.)*
 - **Tribalism over empire.** No purebloods, no throne — power is **clan, warband, and the strength of the strongest arm.** Monstrously powerful, but **fractious**, never unifying.
 - **Low cunning, high muscle.** Their **dullness** keeps them from the schemes of [[Saraïm]] or [[Toldoth]] — but makes them terrifying in a straight fight.
 - **Fear of Earth:** *(TBD — likely a crude tribal taboo or boogeyman-myth, not doctrine.)*

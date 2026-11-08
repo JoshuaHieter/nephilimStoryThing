@@ -47,7 +47,7 @@ The Nephilim reached Rephaim about **3,900 years** before the book's present (th
 
 ### 6. The Dawn of Engines (the present)
 - The **early industrial revolution** begins: steam and gearwork (Penuel's coal steamboat is one example; see [[The Ocean World#Technology|Technology]]). Still **no gunpowder.**
-- **Things kick off.** *(What exactly: see open questions.)*
+- **Things kick off:** **coal** and **silica** become strategic resources, **steamships** begin to brave the monster seas, and **conquest accelerates.** This is the stage the crew walks onto, with [[Pātuna]] under siege.
 
 ## Connections
 
@@ -58,7 +58,6 @@ The Nephilim reached Rephaim about **3,900 years** before the book's present (th
 ## Open questions
 
 - **When was the Wasting?** How many years after arrival, and so how many years of written history are there?
-- **"Things kicked off":** what does the engine age set off? One suggestion *(not canon)*: coal and silica become strategic, steamships begin to brave the monster seas, and conquest accelerates. That would be the stage the crew walks onto, with Pātuna under siege.
 - Is the engine age the **book's present**, or did it start a while before?
 - Did the Wasting reach the **other Nephilim worlds**?
 - Have Saraïm and Toldoth ever fought **openly**?

@@ -39,14 +39,14 @@ Full roster and stock in [[Kilayim Races]]. Many also live as **free** communiti
 
 The Saraïm don't really *worship* — they **believe in themselves.** Their creed:
 
-- **We are descended from Satan.** The [[The Morning Star|Morning Star]] — Lucifer, Yahweh's great rebel — is their **progenitor:** they are the heirs of **Satan's sons (the fallen angels) and Earth's daughters (human women).** That blood is their birthright and their pride.
-- **Satan is dead, and Earth is destroyed.** They hold the Morning Star **long dead** and Earth **drowned by Yahweh in the Flood.** Both their god and his enemy-world are *gone* — leaving only the inheritance: the **stars he won them** and the **mandate to conquer them.**
+- **We are descended from the Morning Star.** The [[The Morning Star|Morning Star]] — Yahweh's great rebel — is their **progenitor:** they are the heirs of **the Morning Star's sons (the fallen angels) and Earth's daughters (human women).** That blood is their birthright and their pride.
+- **The Morning Star is dead, and Earth is destroyed.** They hold the Morning Star **long dead** and Earth **drowned by Yahweh in the Flood.** Both their god and his enemy-world are *gone* — leaving only the inheritance: the **stars he won them** and the **mandate to conquer them.**
 - **We are the purebloods; we will rule the stars.** Bloodline purity is destiny. The pure **[[Nephilim Biology & Caste|Tahorim]]** are the rightful masters of creation, carrying their dead progenitor's conquest onward.
 - **You are lowly Kilayim — bow down.** The other face is brutal contempt for the [[Kilayim Races|hybrid underclass]]: lesser blood, born to serve and grovel.
 
 So it's **less worship than ethno-fascism with a cosmic mandate** — a theocracy where the **ruling pureblood caste *is* the church**, and the whole doctrine reduces to: *our blood, our stars, your knees.*
 
-> **Truth vs. belief (the explosive secret):** they are **doubly wrong.** **Satan is not dead** — he's **alive, caged on Earth** ([[The Morning Star]]) — and **Earth was never destroyed** (the crew is living proof). Their dead progenitor *lives*, on the world they think rubble.
+> **Truth vs. belief (the explosive secret):** they are **doubly wrong.** **The Morning Star is not dead** — he's **alive, caged on Earth** ([[The Morning Star]]) — and **Earth was never destroyed** (the crew is living proof). Their dead progenitor *lives*, on the world they think rubble.
 
 **The dread scenario:** if the Saraïm ever learn the **Morning Star still lives** — their *ancestor-god*, not dead but waiting — the inheritance becomes a **summons.** Manifest-destiny conquest turns into a **holy crusade to reach him** ([[The Morning Star|→ invasion]]). Stopping that knowledge is the crew's deeper job.
 

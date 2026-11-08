@@ -18,7 +18,7 @@ status: draft
 ## The name
 
 - Hebrew *zebul*, **"the exalted dwelling / lofty abode"** — the high seat of the lord.
-- The deep-cut: it's the root of **Ba'al-*zebul* → Beelzebub**, "lord of the exalted dwelling." So the Satan-descended empire's capital literally names **the Devil's high seat** — a horror hidden in plain sight that **only a Hebrew scholar would catch.** A chilling little beat for [[The Lutheran|Konrad]].
+- The deep-cut: it's the root of **Ba'al-*zebul* → Beelzebub**, "lord of the exalted dwelling." So the Morning Star–descended empire's capital literally names **the Devil's high seat** — a horror hidden in plain sight that **only a Hebrew scholar would catch.** A chilling little beat for [[The Lutheran|Konrad]].
 
 ## Open questions
 

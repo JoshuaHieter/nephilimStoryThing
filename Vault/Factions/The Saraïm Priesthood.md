@@ -12,7 +12,7 @@ status: draft
 ## What they are
 
 - A distinct **order within the pureblood [[Nephilim Biology & Caste|Tahorim]] caste** — not warriors (that's the *sarim* nobles) but **quasi-religious historians and administrators.**
-- Their charge: **preserve "the Mandate"** — the Saraïm's founding ideology and bloodline history (descent from [[The Morning Star|Satan]]; the conquest-destiny to rule the stars) — and **enforce the oppression of the [[Kilayim Races|Kilayim]].**
+- Their charge: **preserve "the Mandate"** — the Saraïm's founding ideology and bloodline history (descent from [[The Morning Star]]; the conquest-destiny to rule the stars) — and **enforce the oppression of the [[Kilayim Races|Kilayim]].**
 - In practice, they are the **real government** of [[Saraïm]].
 
 ## Religion? — propaganda with a priesthood
@@ -45,4 +45,4 @@ The priests are caught in a contradiction they **deliberately refuse to examine:
 
 - A **head priest / high council** — how is the order led?
 - How open a secret is the doublethink among them — and is there a **purist faction** that genuinely believes, and would be horrified by the manipulation?
-- Do the priests ever learn the **deep secret** ([[The Morning Star|Satan alive, Earth survived]]) — or only that mysterious humans murdered their god-king? *(Per the [[Book Plotline]]: only the *sar* and emperor knew the deep truth, and both die — so the priests inherit the **mystery**, not the secret.)*
+- Do the priests ever learn the **deep secret** ([[The Morning Star|the Morning Star alive, Earth survived]]) — or only that mysterious humans murdered their god-king? *(Per the [[Book Plotline]]: only the *sar* and emperor knew the deep truth, and both die — so the priests inherit the **mystery**, not the secret.)*
