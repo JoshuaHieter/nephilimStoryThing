@@ -7,11 +7,11 @@ status: draft
 
 # Why Earth Is Forbidden
 
-> Among the Nephilim, going to Earth is forbidden. Few still know the real reason; most cultures wrap the rule in their own story.
+> Among the Nephilim, going to Earth is forbidden. **No one alive knows the real reason, or that Earth survived.** Every culture wraps the rule in its own story, and only [[The Outcast Scholar|Penuel]] suspected the truth. He was branded a heretic for it.
 
-## The true reason (known to few)
+## The true reason (lost)
 
-The original justification, remembered by only a few:
+The original justification, now **forgotten by every Nephilim culture**. Nobody on the Nephilim worlds believes Earth still exists:
 
 - **Humans have divine favor.** The Nephilim know it.
 - **The Nephilim, by contrast, have no souls** — or none that can be **redeemed** — and they know it. (A strong but fallen **angelic will**, with no salvation on offer; see [[Nephilim Biology & Caste]].)
@@ -21,7 +21,7 @@ So the prohibition is, at root, **self-preservation born of guilt and fear.** St
 
 ## How the cultures disguise it
 
-The real reason is known to few. The various [[The Nephilim Worlds|Nephilim cultures]] each cloak the rule in their own way, for example:
+The real reason is lost. The various [[The Nephilim Worlds|Nephilim cultures]] each cloak the rule in their own way, for example:
 
 - *"You shouldn't go to Earth."* (a taboo, no reason given)
 - *"Earth doesn't exist."* (denial — the place is a myth, a lie, nothing)
@@ -37,6 +37,5 @@ The real reason is known to few. The various [[The Nephilim Worlds|Nephilim cult
 
 ## Open questions
 
-- Who are the **few** who still know the true reason? Priests, rulers, a secret order?
 - Do the Nephilim's beliefs about their own soullessness hold up, or is that their assumption?
 - Has any Nephilim culture decided the prohibition is *wrong* — or that Earth should be confronted rather than avoided? (Possible seed for the later invasion.)
