@@ -21,6 +21,7 @@ status: established
 - In our world that has been a **small, disparate group** against a **more powerful but less cunning power**.
 - **The series asks:** what if, instead of **bigotry and hatred toward kin**, it were a **real, more evenly matched struggle between two totally irreconcilable groups**?
 - So the series is an **extension of Rome vs. Judea.** The Nephilim side is coded through **Hebrew and its Semitic sister-languages** (no Indo-European naming), set against Rome and its successors.
+- **The Nephilim are not Jews.** Their tongue is **older than Israel**: a **pre-Flood tongue** that Hebrew also descends from, which [[The Lutheran|Konrad]] recognises as **ancestral kin to Hebrew**, not Jewish. And **Jews don't like the Nephilim either**: Jewish tradition condemns them too ([[Real-World Nephilim Theology]]). The Rome-vs-Judea echo is **structural**, not an equation of the Nephilim with the Jewish people.
 
 ## Magic level: very, very low
 
