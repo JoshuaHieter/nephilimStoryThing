@@ -22,10 +22,13 @@ status: draft
 
 ## Ayalim — stag-folk ([[Toldoth]])
 
-- **Stock:** family **Cervidae** — but the base creature is the **ayal**, an **alien deer found nowhere on Earth.** In form it's akin to a **great white stag** — large, pale, majestic (echoing the Celtic white hart) — but its **antlers are not bone: they are living, clear, faintly-refracting crystal**, like living glass somewhere between coral and quartz. Unmistakably not of Earth.
-- **The gradient — blood you read at a glance:** pure **Tahor** = towering, pale, **antlerless.** The more Kilayim, the **larger and more branching the antlers**, plus pelt, hooved legs, swept ears, deer-eyes. **Rank crowns your head** — and because those antlers are **crystalline**, a great branching rack literally **glitters**: the ultimate, unmissable status display. Unlike most Kilayim (who stop near half-animal), the Ayalim grade all the way to a near-full **"great stag."**
-- **The trade-off:** more animal → keener senses, speed, grace, hardiness; **less of the prized intellect.** The pure rule by mind — *usually* — but a sharp deep-hybrid can still rise ([[Toldoth]]'s "not always").
-- **The wild ayal:** the same alien deer **roams the Toldoth isles wild, in herds.** Not sacred — but **killing or eating one is deep taboo**, the way eating a pet dog would be in America: too close to kin, too much a companion. *(A brutal snag for a starving, marooned crew — see [[Toldoth]].)*
+- **Stock:** family **Cervidae** — but the base creature is the **ayal**, an **alien deer found nowhere on Earth**: a **great white stag** (echoing the Celtic white hart) whose **antlers are living, clear crystal — quartz.**
+- **The antlers are a sense organ.** Living quartz is piezoelectric, so the antlers pick up **electrical fields** (heartbeat, fear, flinching) and **pressure / vibration.** Short-range in air; strongest by touch or on wet ground.
+- **Touch to disorient:** an antler near someone's head causes **nausea or unease** — a **skilled** Ayal can make them **pass out.**
+- **Grown from diet:** silica from grasses and mineral springs, laid onto a collagen frame under living velvet. **Diet shapes the antler.**
+- **Never shed** — grown once, kept for life; a **broken antler is permanent.**
+- **The gradient:** pure **Tahor** = antlerless, no sense. The more Kilayim, the **larger the antlers** — out to a near-full **"great stag"** whose sense floods the mind. The Toldoth prize **the balance** between — strong sense, working mind — not the pure end. See [[Toldoth]].
+- **The wild ayal:** the same alien deer **roams the Toldoth isles wild, in herds.** Not sacred — but **killing or eating one is deep taboo**, the way eating a pet dog would be in America. *(A brutal snag for a starving, marooned crew — see [[Toldoth]].)*
 - **Name:** Heb. *ayal*, the hart.
 
 ## The Saraïm underclass

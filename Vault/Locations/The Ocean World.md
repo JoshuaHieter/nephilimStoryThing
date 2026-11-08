@@ -42,7 +42,7 @@ status: draft
 The habitable archipelago is divided among **three powers** and a scatter of independent isles:
 
 - **[[Saraïm]]** — a vast **aristocratic empire**; pure-Tahorim nobility ruling and **hard-oppressing many different Kilayim subject races.** The dominant power.
-- **[[Toldoth]]** — a realm of Nephilim and a **single** hybrid race, ranged across a **full gradient from pure to barely-Tahorim.** Purity usually buys status — *but not always.*
+- **[[Toldoth]]** — a realm of Nephilim and a **single** hybrid race, ranged across a **full gradient from pure to barely-Tahorim** — but they prize a specific **balance** of blood, not purity. Uneasy neighbours with [[Saraïm]].
 - **[[Gibborim]]** — **no pure Tahorim at all** and **less advanced**, but its hybrid race is **freakishly strong.** A land of brute power.
 - **The Iyim** — a scatter of **weaker, independent island city-states**, **each populated wholly by a single [[Saraïm]]-underclass race** ([[Kilayim Races]]) — free, but weak. *(Individual isles TBD.)*
 
