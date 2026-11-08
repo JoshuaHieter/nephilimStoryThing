@@ -14,6 +14,7 @@ status: draft
 - **Type:** a larger country with **no pure Nephilim** (all died in [[History of Rephaim#3. The Wasting (the muddling event)|the Wasting]]) and **less technological advancement**
 - **Name:** *gibborim*, "mighty men" — the Bible's word for the Nephilim's powerful offspring
 - **Defining trait:** its hybrid race — the **Reëmim**, ox-centaurs ([[Kilayim Races]]) — is **extraordinarily physically powerful**
+- **Territory:** the **biggest island** of Rephaim. The Gibborim **have no sea travel**, so they are confined to it.
 - **Society:** **very tribalistic** — clans and warbands, not a unified state
 - **Minds:** **low intelligence** — brawn over brains, far below the ~120 IQ of pure [[Nephilim Biology & Caste|Tahorim]]
 
