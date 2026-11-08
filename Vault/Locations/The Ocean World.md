@@ -19,6 +19,7 @@ status: draft
 
 - **Very oceanic.** The main continent — **Rephaim** — is almost an **archipelago**, but the islands are **decently large.** Think the **British Isles, but more** (bigger, and more of them). *(Rephaim: the biblical giant-dead/shades — a drowned-isle land of giants.)*
 - The **islands themselves aren't terribly hostile** to live on. The danger is **getting between them.**
+- **Map:** see [[Rephaim map]]. It's a ~2,700 km circle of islands, Great Britain-sized near the centre and shrinking outward, with small isles scattered in the channels. Who holds which island is TBD.
 
 ## The sea monsters
 
