@@ -13,6 +13,15 @@ status: established
 
 **This story is an excuse to have Christians fight aliens.** That is the heart of it. Everything else serves that.
 
+## The series theme: Rome vs. Judea
+
+*(Joshua's framing, close to his words.)*
+
+- There has been **enmity between Christ and the people who killed and abandoned him.** **Rome** was chosen as the empire to destroy the **Second Temple**, and there has been a struggle between the Jews and **Rome's successors** ever since.
+- In our world that has been a **small, disparate group** against a **more powerful but less cunning power**.
+- **The series asks:** what if, instead of **bigotry and hatred toward kin**, it were a **real, more evenly matched struggle between two totally irreconcilable groups**?
+- So the series is an **extension of Rome vs. Judea.** The Nephilim side is coded through **Hebrew and its Semitic sister-languages** (no Indo-European naming), set against Rome and its successors.
+
 ## Magic level: very, very low
 
 - This is **not** a fantasy world. No spellcasting, no wizards, no working sorcery.

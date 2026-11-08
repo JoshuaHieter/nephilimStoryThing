@@ -33,6 +33,20 @@ The empire runs on a **caste-stack of many** [[Kilayim Races|Kilayim]], each slo
 
 Full roster and stock in [[Kilayim Races]]. Many also live as **free** communities in the [[The Ocean World|Iyim]] — the same race, crushed here and sovereign there.
 
+## Nationalities (the provinces)
+
+The empire **consolidated from rival holdings** after [[History of Rephaim|the Wasting]], and the archipelago makes islands into natural nations. These **Tahorim** nationalities are a separate axis from the [[Kilayim Races|Kilayim castes]], which cut across all of them. Names are **TBD**. Each nationality draws on a **Semitic sister-language of Hebrew** (no Indo-European), so the whole empire stays "Judea" ([[Setting Principles]]).
+
+| Nationality (working label) | Character | Naming language |
+|---|---|---|
+| **The Crown Isle** | The royal line's original domain around [[Zebul]]. The most orthodox, with the most inbred court. Old money that looks down on everyone. | **Ugaritic** (the tongue of old Canaan, fitting the King of Canaan's line) |
+| **The Marsh March** | The frontier coast where [[Pātuna]] sits. Siege-lords: hardened, brutal to runaways, with something to prove. | **Aramaic** |
+| **The Forge Isles** | Coal, shipyards, the new engines. Rich, pragmatic, less pious Tahorim who make the Sopherim nervous. Home of the industrial "kick-off." | **Phoenician / Punic** (seafarers, Carthage) |
+| **The Old Rival** | Once had its **own claim to the King of Canaan's line**. Conquered, not joined. Outwardly loyal, nursing a grudge: a **succession threat** after the regicide. | **Akkadian / Babylonian** |
+| **The Toldoth Border** | Faces [[Toldoth]]. Rumours of "dilution," smuggling and mixed-blood scandals; the priests watch it closely. | *TBD* |
+
+The [[The Saraïm Faith|pantheon]] is shared by all of them and **not tied to any nationality**.
+
 ## Religion = state: theocratic ethno-fascism
 
 *(Each Nephilim power braids faith, culture, and its Earth-story into one thing. The Saraïm's is the harshest — a **true religion** fused to a master-race ideology, where the **church is the state.**)*
