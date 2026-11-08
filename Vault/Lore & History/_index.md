@@ -6,7 +6,7 @@ Cosmology, timeline, historical events, and standalone concepts. Use [[Templates
 
 ## Timeline
 
-- 
+- [[History of Rephaim]] — arrival (~3,900 yrs ago) → Scattered Lordships → the Wasting → the Hardening → Consolidation & Conquest → Dawn of Engines
 
 ## Entries
 
@@ -17,6 +17,7 @@ Cosmology, timeline, historical events, and standalone concepts. Use [[Templates
 - [[The Nephilim Worlds]] — their civilizations now: distinct cultures, aware of each other
 - [[Nephilim Biology & Caste]] — what they are: half-angel giants (upper caste) + hybrid common folk
 - [[Kilayim Races]] — the hybrid races (the "alien types"): ox-centaurs, boar-, hound-, eel-, raven-folk…
+- [[History of Rephaim]] — the continent's history, from the Flood-flight through the Wasting to the dawn of engines
 - [[Tunoth]] — the eelfolk: goblinish, "unclean" bottom caste; the book's besieged people
 - [[Real-World Nephilim Theology]] — *(reference)* the actual biblical texts & historical interpretations, and who held them
 - [[Why Earth Is Forbidden]] — the prohibition, its true reason, and its disguises

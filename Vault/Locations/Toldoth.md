@@ -53,7 +53,7 @@ Toldoth's one hybrid stock is the **Ayalim** (stag-folk; full detail in [[Kilayi
 
 ## Why Toldoth breeds for balance
 
-- **Why they rejected purity:** they looked at the inbred Tahorim (the Habsburg curse — [[Nephilim Biology & Caste]]) and concluded *purity is a sickness.*
+- **Why they rejected purity:** after [[History of Rephaim#3. The Wasting (the muddling event)|the Wasting]], a plague that struck the pure hardest, they looked at the inbred Tahorim (the Habsburg curse — [[Nephilim Biology & Caste]]) and concluded *purity is a sickness.*
 - **Why the neighbours are uneasy:** to [[Saraïm]], breeding *down* from Tahor blood on purpose is a deliberate dilution of the holy blood — near-heresy.
 - **Lineage ledgers:** true to the name ("generations / lineages"), they keep obsessive breeding records to steer each line toward the balance.
 - **Silica as a resource:** because diet shapes the antler, silica-rich pastures and mineral springs are prized — and fought over.
