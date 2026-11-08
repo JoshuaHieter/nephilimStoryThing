@@ -15,8 +15,8 @@ status: draft
 
 ## Prologue — *Penuel* *(~0%)* — **written**
 **POV:** [[The Outcast Scholar|Penuel]] (the Nephilim scholar).
-- Establish Penuel: a pure-Nephilim outcast of [[Saraïm]], a devout Morning-Star worshipper — but a **heretic among heretics**, who has decided (from the cultures' *conflicting* Earth-myths) that **Earth survived** and that **Satan may still live there.**
-- His resolve: cross **alone, in a tiny boat**, to seek the Morning Star **face to face** — defying his people's dogma that Earth is rubble and their god long dead.
+- Establish Penuel: a pure-Nephilim outcast of [[Saraïm]], a devout Morning-Star worshipper — but a **heretic among heretics**, who has decided (from the cultures' *conflicting* Earth-myths) that **Earth survived the Flood**: that it is **not** the drowned sea-world where doctrine says the Morning Star lies bound, but somewhere **reachable.**
+- His resolve: cross **alone, in a tiny boat**, to seek the Morning Star **face to face** — defying his people's dogma that Earth is a drowned waste and their bound god beyond reach.
 - The crossing *from the Nephilim side* (he knows the method): far water, the **world-stars**, **sea limbo**, the sky swapping, aiming dead-on at **Earth's star.**
 - **Landfall:** he sights Earth — proof his heresy was right, his faith vindicated. Triumph.
 - But he's a **scholar, not a sailor**, in a tiny boat: he **wrecks and dies on the shore** — "face of God," on the threshold, never reaching his god.
@@ -43,7 +43,7 @@ status: draft
 
 **Religion / cosmology:**
 - **[S]** **Prayers to the Morning Star** as he sails — Lucifer, the Father who won them the stars — *expecting an answer.*
-- **[S]** His **heresy bare:** doctrine says Yahweh **drowned Earth** and the Morning Star is **long dead** — Penuel has decided **both are lies.** Earth survived; and if it did, so might his god.
+- **[S]** His **heresy bare:** doctrine says Yahweh **drowned Earth for good**, leaving the Morning Star **bound on an endless sea**, beyond reach. Penuel has decided **that is a lie.** Earth survived, and if it did, **his god can be reached.**
 - **[S]** Dread-speculation about **humans** — the **God-favored** small folk who, the oldest texts warn, would be loosed to **exterminate his kind** if they ever learned of them. *(He's about to do exactly that.)*
 - **[S]** Pedigree pride: **descended from Satan's sons and Earth's daughters.** **[T]** Time reckoned "since the waters" (the Flood).
 

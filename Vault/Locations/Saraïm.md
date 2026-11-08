@@ -35,20 +35,22 @@ Full roster and stock in [[Kilayim Races]]. Many also live as **free** communiti
 
 ## Religion = state: theocratic ethno-fascism
 
-*(Each Nephilim power braids faith, culture, and its Earth-story into one thing. The Saraïm's is the harshest — and barely a "faith" at all. It's an **ideology**, and the **church is the state.**)*
+*(Each Nephilim power braids faith, culture, and its Earth-story into one thing. The Saraïm's is the harshest — a **true religion** fused to a master-race ideology, where the **church is the state.**)*
 
-The Saraïm don't really *worship* — they **believe in themselves.** Their creed:
+The Saraïm are **genuinely religious**: a faith of **waiting**, with their bound lord shining over them every night. Day-to-day practice, the pantheon and the sky are set out in [[The Saraïm Faith]]. Their creed:
 
 - **We are descended from the Morning Star.** The [[The Morning Star|Morning Star]] — Yahweh's great rebel — is their **progenitor:** they are the heirs of **the Morning Star's sons (the fallen angels) and Earth's daughters (human women).** That blood is their birthright and their pride.
-- **The Morning Star is dead, and Earth is destroyed.** They hold the Morning Star **long dead** and Earth **drowned by Yahweh in the Flood.** Both their god and his enemy-world are *gone* — leaving only the inheritance: the **stars he won them** and the **mandate to conquer them.**
-- **We are the purebloods; we will rule the stars.** Bloodline purity is destiny. The pure **[[Nephilim Biology & Caste|Tahorim]]** are the rightful masters of creation, carrying their dead progenitor's conquest onward.
+- **The Morning Star lives, but is bound.** He is the **pole star** of their sky, the fixed point all the heavens turn around. Its light proves he is **not dead**. Instead, he is **trapped by Yahweh on Earth**, which they believe is still a **drowned world of all sea and no land** (Noah's Flood never receded). He is **out of reach**, so what remains is the inheritance: the **stars he won them** and the **mandate to conquer them.**
+- **We are the purebloods; we will rule the stars.** Bloodline purity is destiny. The pure **[[Nephilim Biology & Caste|Tahorim]]** are the rightful masters of creation, carrying their bound progenitor's conquest onward.
 - **You are lowly Kilayim — bow down.** The other face is brutal contempt for the [[Kilayim Races|hybrid underclass]]: lesser blood, born to serve and grovel.
 
-So it's **less worship than ethno-fascism with a cosmic mandate** — a theocracy where the **ruling pureblood caste *is* the church**, and the whole doctrine reduces to: *our blood, our stars, your knees.*
+So it's **sincere worship welded to ethno-fascism with a cosmic mandate**, a theocracy where the **ruling pureblood caste *is* the church**. At bottom: *our lord, our blood, our stars, your knees.*
 
-> **Truth vs. belief (the explosive secret):** they are **doubly wrong.** **The Morning Star is not dead** — he's **alive, caged on Earth** ([[The Morning Star]]) — and **Earth was never destroyed** (the crew is living proof). Their dead progenitor *lives*, on the world they think rubble.
+**Minority views.** Binding is the **main** theory, not the only one. A heretical school holds that **his light outlives him**: he is dead, and the star is only his light still arriving. Toldoth thinks he is simply **dead** ([[Toldoth]]).
 
-**The dread scenario:** if the Saraïm ever learn the **Morning Star still lives** — their *ancestor-god*, not dead but waiting — the inheritance becomes a **summons.** Manifest-destiny conquest turns into a **holy crusade to reach him** ([[The Morning Star|→ invasion]]). Stopping that knowledge is the crew's deeper job.
+> **Truth vs. belief (the explosive secret):** they are **right that he lives and is caged on Earth**, but **wrong about Earth.** Earth is **not a drowned waste**. It is **habitable**, full of land and people, and **the Morning Star is seriously reachable** by following his star ([[The Morning Star]], [[The Crossing]]). The crew are living proof.
+
+**The dread scenario:** if the Saraïm ever learn that **Earth is habitable and their bound lord can actually be reached**, the inheritance becomes a **summons.** Manifest-destiny conquest turns into a **holy crusade to reach him** ([[The Morning Star|→ invasion]]). Stopping that knowledge is the crew's deeper job.
 
 ## The throne (top of the chain)
 

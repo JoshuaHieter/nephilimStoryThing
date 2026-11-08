@@ -22,13 +22,13 @@ status: draft
 
 ## The danger — and the crew's real job
 
-- The [[Saraïm]] believe him **dead** — their long-gone **progenitor**, from whom they descend; they revere the *bloodline*, not a living god. The [[Toldoth]] also think him **dead**, and simply don't care. **Neither knows he is alive.**
-- **If the Nephilim — the Saraïm above all — ever learn Satan is alive**, he will **influence them to attack Earth.** Now that he knows they exist, that's exactly what he wants: a fallen-angel host, off-world and beyond God's flood, turned against the world that cages him.
+- The [[Saraïm]] **rightly** believe he **lives**, **bound by Yahweh on Earth**. To them he is the **pole star** of their sky. But they think Earth is a **drowned world, all sea and no land**, so he is **unreachable**. The [[Toldoth]] think him **dead**, and simply don't care. **No one knows Earth is habitable, or that he can be reached.**
+- **If the Nephilim (the Saraïm above all) ever learn that Earth is habitable and the Morning Star is seriously reachable**, he will **influence them to attack Earth.** Now that he knows they exist, that's exactly what he wants: a fallen-angel host, off-world and beyond God's flood, turned against the world that cages him.
 - So the mission's **deeper purpose, discovered along the way:** the crew must **make sure they never find out.** Keep the secret, or light the fuse on the invasion ([[The Pope's Mission]]).
 
 ## Truth vs. belief
 
-- **Saraïm:** our **dead progenitor** left us the stars, Earth is destroyed, and we his pureblood heirs will rule → *both wrong — he **lives**, and Earth **survived**.*
+- **Saraïm:** our **progenitor lives, bound** on a drowned Earth, beyond reach, and we his pureblood heirs will rule the stars he won → *half right: he lives and is caged, but Earth **survived**, it is **habitable**, and he is **reachable**.*
 - **Toldoth:** a dead god → *wrong; he lives, just caged.*
 - Only Earth's people — and now the crew — are placed to know the real shape of it.
 

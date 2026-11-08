@@ -15,9 +15,9 @@ status: draft
 - Their charge: **preserve "the Mandate"** — the Saraïm's founding ideology and bloodline history (descent from [[The Morning Star]]; the conquest-destiny to rule the stars) — and **enforce the oppression of the [[Kilayim Races|Kilayim]].**
 - In practice, they are the **real government** of [[Saraïm]].
 
-## Religion? — propaganda with a priesthood
+## Religion and propaganda
 
-It's **technically not a religion** — there's no living god to worship (the [[The Morning Star|Morning Star]] is held **dead**). But it **functions as one:** a dogma (pureblood supremacy), a sacred **Mandate** (manifest destiny to conquer the stars, willed by the dead progenitor), a descent-mythology, and a priesthood to keep it. In truth the **Sopherim are fascist propagandists fused with a civil service** — the ministry of the Mandate: they **propagate the creed, write the official history, and run the empire in its name.**
+It is a **real religion**. The [[The Morning Star|Morning Star]] is held to be **alive but bound by Yahweh** on a drowned Earth, shining as the pole star, with the fallen angels as constellations around him ([[The Saraïm Faith]]). The Sopherim are its priests: they keep the star-calendar and the rites. They are also the empire's **propagandists and civil service**, the ministry of the Mandate (manifest destiny to conquer the stars, willed by their bound progenitor). They **propagate the creed, write the official history, and run the empire in its name.**
 
 ## How the Sopherim are chosen
 
@@ -45,4 +45,4 @@ The priests are caught in a contradiction they **deliberately refuse to examine:
 
 - A **head priest / high council** — how is the order led?
 - How open a secret is the doublethink among them — and is there a **purist faction** that genuinely believes, and would be horrified by the manipulation?
-- Do the priests ever learn the **deep secret** ([[The Morning Star|the Morning Star alive, Earth survived]]) — or only that mysterious humans murdered their god-king? *(Per the [[Book Plotline]]: only the *sar* and emperor knew the deep truth, and both die — so the priests inherit the **mystery**, not the secret.)*
+- Do the priests ever learn the **deep secret** ([[The Morning Star|Earth habitable, the Morning Star reachable]]) — or only that mysterious humans murdered their god-king? *(Per the [[Book Plotline]]: only the *sar* and emperor knew the deep truth, and both die — so the priests inherit the **mystery**, not the secret.)*
