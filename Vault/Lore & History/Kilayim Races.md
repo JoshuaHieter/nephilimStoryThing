@@ -26,7 +26,7 @@ status: draft
 - **The antlers are a sense organ.** Living quartz is piezoelectric, so the antlers pick up **electrical fields** (heartbeat, fear, flinching) and **pressure / vibration.** Short-range in air; strongest by touch or on wet ground.
 - **Touch to disorient:** an antler near someone's head causes **nausea or unease** — a **skilled** Ayal can make them **pass out.**
 - **Grown from diet:** silica from grasses and mineral springs, laid onto a collagen frame under living velvet. **Diet shapes the antler.**
-- **Never shed** — grown once, kept for life; a **broken antler is permanent.**
+- **Never shed** — they grow **mostly in puberty**, then **very, very slowly** after; a **broken antler is effectively permanent.**
 - **The gradient:** pure **Tahor** = antlerless, no sense. The more Kilayim, the **larger the antlers** — out to a near-full **"great stag"** whose sense floods the mind. The Toldoth prize **the balance** between — strong sense, working mind — not the pure end. See [[Toldoth]].
 - **The wild ayal:** the same alien deer **roams the Toldoth isles wild, in herds.** Not sacred — but **killing or eating one is deep taboo**, the way eating a pet dog would be in America. *(A brutal snag for a starving, marooned crew — see [[Toldoth]].)*
 - **Name:** Heb. *ayal*, the hart.

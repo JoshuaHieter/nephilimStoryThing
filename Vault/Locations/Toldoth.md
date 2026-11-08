@@ -24,7 +24,7 @@ Toldoth's one hybrid stock is the **Ayalim** (stag-folk; full detail in [[Kilayi
 
 **Touch to disorient.** Laid near someone's head, an antler can make them **nauseous or uneasy** — and a **skilled** Ayal can make them **pass out.** (Grounded in real effects: induced currents cause vertigo, nausea, twitching.)
 
-**The antlers do not shed.** They are grown once and kept for life — so a **broken antler is permanent.**
+**The antlers do not shed.** They grow **mostly during puberty**, then only **very, very slowly** for the rest of life — so a **broken antler is effectively permanent.**
 
 **Diet matters.** The crystal is built from **silica** the ayal takes in — silica-rich grasses, mineral springs — carried by special proteins and laid onto a collagen frame under living velvet. **What you eat shapes the antler you grow.**
 
@@ -51,18 +51,18 @@ Toldoth's one hybrid stock is the **Ayalim** (stag-folk; full detail in [[Kilayi
 - **A weaker taboo on mixing** — mixing is the whole point, which is why Toldoth is a **fluid gradient** rather than a rigid caste.
 - **Fear of Earth:** *(TBD — likely dismissive rather than fearful; if the gods are dead myths, Earth is probably just another dead myth to them.)*
 
-## Suggestions (not yet canon)
+## Why Toldoth breeds for balance
 
 - **Why they rejected purity:** they looked at the inbred Tahorim (the Habsburg curse — [[Nephilim Biology & Caste]]) and concluded *purity is a sickness.*
 - **Why the neighbours are uneasy:** to [[Saraïm]], breeding *down* from Tahor blood on purpose is a deliberate dilution of the holy blood — near-heresy.
-- **Lineage ledgers:** the name means "generations / lineages" — obsessive breeding records to steer toward the balance.
-- **Silica as a resource:** if diet shapes the antler, silica-rich pastures and springs become prized — maybe fought over.
+- **Lineage ledgers:** true to the name ("generations / lineages"), they keep obsessive breeding records to steer each line toward the balance.
+- **Silica as a resource:** because diet shapes the antler, silica-rich pastures and mineral springs are prized — and fought over.
 
 ## Open questions
 
 - The antlers are **living quartz** (resolved). Since they don't shed, are they worth *taking* — poaching from the wild ayal, or trophies cut from the dead?
 - What exactly **is** the balance — a named ratio? How is it measured or judged?
-- Do the antlers keep **growing through life**, or stop at adulthood?
+- Does diet **in puberty** (when most growth happens) matter most — and does that make adolescent feeding a family / class concern?
 - What lets someone **rise against** their blood — wealth, deeds, cunning, beauty?
-- What, specifically, makes them **uneasy neighbours** with [[Saraïm]]?
+- Beyond the heresy charge, any **border, trade, or war history** with [[Saraïm]]?
 - How does it stand toward [[Saraïm]] — rival, vassal, ally?
