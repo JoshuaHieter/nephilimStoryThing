@@ -34,6 +34,11 @@ They do **not** know he is a "Nephilim," that he was an *outcast*, or what he fl
 - The crew finds his **diary**, written in a language that **clearly descends from ancient Hebrew, but has drifted far from it** — the way modern, slangy English has drifted from Old English. Only someone **trained in the old tongue** (a true Hebrew scholar — see [[The Lutheran]]) can even *attempt* to field-test a reading: he knows the ancestor and must bridge centuries of change to puzzle out the descendant. **Most of it is simply how he meant to reach Earth and why he wanted to come** — little about his world or his kind. From the *how*, scholars **reverse-engineer the crossing** ([[The Crossing]]); from the rest, only a **vague sense** that he came from **somewhere beyond the star.** Enough to turn a dead body into an expedition — but not much more.
 - Tellingly, the diary treats crossing as **utterly ordinary** — he mentions it **almost in passing**, as he simply *decides* to use it to reach Earth. Humans had to **reverse-engineer** the method precisely because he never bothered to *explain* it; to him it was as unremarkable as catching a ship to another continent.
 
+## Background: how he found out (author-only)
+
+- Penuel discovered **pre-Wasting texts in an underground temple**. These are writings from before recorded history ([[History of Rephaim]]), and they are what pointed him toward Earth's survival and the old fear of humans.
+- *Background canon: probably **never mentioned** in the book.*
+
 ## Why he matters
 
 - *(To us, and to the world eventually:)* a Nephilim has not set foot on Earth since the Flood — his body **could be** proof the old stories are real. The mission doesn't know that yet (see above).

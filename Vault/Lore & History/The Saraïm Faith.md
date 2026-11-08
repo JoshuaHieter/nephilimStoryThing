@@ -31,9 +31,9 @@ The Saraïm are **more than Tahor supremacists**. They are **genuinely religious
 - **"His light outlives him"** *(heretical)*: he is dead, and the star is only his light still arriving, the way real starlight can outlast its star.
 - **[[Toldoth]]:** he is simply **dead**, and not worth worshipping.
 
-## The pantheon (draft roster, pending Joshua's OK)
+## The pantheon
 
-Names are borrowed from 1 Enoch's Watchers, but the aspects are **reshaped into broad strokes**:
+Names are borrowed from 1 Enoch's Watchers, but the aspects are **reshaped into broad strokes**. The pantheon is **not tied to any nationality**: all Saraïm share it.
 
 | Fallen angel | Aspect | Notes |
 |---|---|---|
@@ -48,7 +48,7 @@ Names are borrowed from 1 Enoch's Watchers, but the aspects are **reshaped into 
 
 ## Suggestions (not yet canon): day-to-day practice
 
-- **Tahorim households** each claim descent from **one fallen angel**. They keep a house shrine, recite the bloodline, and keep that angel's star-night. *(This may also be the root of sub-Saraïm nationalities.)*
+- **Tahorim households** keep a house shrine, recite the bloodline, and keep the star-nights.
 - **The Sopherim** keep the **star calendar**, read omens in the constellations (sincere but inert, per [[Setting Principles]]), certify births by blood, approve marriages for purity, and officiate deaths.
 - **Kilayim laity** venerate the Tahorim as **living relics** of the fallen angels. Their service is their worship. "Unclean" races such as the [[Tunoth]] are **barred from temples**.
 - **Festivals:** constellation risings; a night of **vigil for the bound lord**; a remembrance of [[History of Rephaim|the Wasting]] as "the Winnowing."
@@ -59,7 +59,5 @@ Names are borrowed from 1 Enoch's Watchers, but the aspects are **reshaped into 
 
 ## Open questions
 
-- Keep the **Enoch names**, or give the angels Saraïm-specific names?
-- Add, cut or merge any of the **eight**?
 - How does a **lay Tahor** worship day to day, versus a Kilayim?
 - What do the **heretical "light outlives him"** believers face: tolerance, or the noose?
