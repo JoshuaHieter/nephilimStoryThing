@@ -45,6 +45,7 @@ Toldoth's one hybrid stock is the **Ayalim** (stag-folk; full detail in [[Kilayi
 ## Power & control
 
 - Unlike [[Saraïm]]'s many subject races, here it's **one people**, ranked along a **spectrum of blood** — with the **balance**, not the pure end, at the top.
+- **Gibborim slaves:** Toldoth is the **biggest buyer** of Reëmim sold by [[Gibborim]] chiefs, and treats them **very badly.**
 - **Rising against your blood** happens, but it's **rare and not a big deal**.
 - *(Real-world rhyme: blood-quantum hierarchy within a single people — but aimed at a middle, not an extreme.)*
 

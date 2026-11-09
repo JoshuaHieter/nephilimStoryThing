@@ -35,7 +35,7 @@ status: draft
 *(Each power braids faith, culture, and its Earth-story differently. This is the Gibborim's.)*
 
 - **The creation story.** The **wild oxen are the older siblings**: the **first children of the mountains**, tasked with **protecting** them. The **Gibborim were created second** and **given the island.**
-- **Gods that aren't there.** Their gods **don't exist** (in this cosmology only the Judeo-Christian powers are real: [[The Morning Star]], the fallen angels, Yahweh). In their belief, **each one is a god**. *(See open questions: each mountain?)*
+- **Gods that aren't there.** Their gods **don't exist** (in this cosmology only the Judeo-Christian powers are real: [[The Morning Star]], the fallen angels, Yahweh). In their belief, **each mountain is a god**.
 - **Earth: unknown.** The Gibborim **don't even know about Earth**. They have no taboo story at all, the one exception to [[Why Earth Is Forbidden]].
 - **Clan and nothing more.** No purebloods, no throne. Power is **clan, warband, and the strongest arm.** They **lack the intelligence and administrative skill** to build anything bigger than a clan.
 - **Low cunning, high muscle.** Their **dullness** keeps them from the schemes of [[Saraïm]] or [[Toldoth]], but makes them terrifying in a straight fight.
@@ -46,6 +46,9 @@ The grim irony: the Saraïm worship a god who is real; the Gibborim, the dimmest
 
 - **Most Gibborim hate the Tahorim**, and see them as **weak losers.**
 - **But some sell their own.** Some chiefs **enslave and trade their brothers** to outsiders for **wealth and weapons.**
+  - **[[Toldoth]] buys the most**, and treats them **very badly.**
+  - **[[Saraïm]] merchants** buy them too. It's **frowned upon** there: it is slavery of an **otherwise free people**, as opposed to the totally justified and definitely very different **conquering** the Saraïm do. It's **not illegal**, because the Gibborim aren't conquered subjects and so **have no rights**, but it's not respectable.
+- **Why no sea travel:** boats take **engineering** they **aren't smart enough for and don't care** to do, and being **four-legged and huge** doesn't help.
 - **The fear (a possibility, not yet set):** an **outside force of smart people** could one day **rally the tribes**, and since the Gibborim hate the Tahorim, that force **might even be humans.**
 
 ## Naming
@@ -54,6 +57,4 @@ The grim irony: the Saraïm worship a god who is real; the Gibborim, the dimmest
 
 ## Open questions
 
-- **"Each one is a god":** each mountain? Each wild ox? Each clan's ancestor?
-- **No sea travel:** why? Size, weight, fear of the water, or never needing it?
-- **Who buys the slaves:** Saraïm, Toldoth, or both? And how do traders cross to an island whose people don't sail?
+- Do slave traders land on Gibborim's coasts, or do chiefs bring captives to a trading spot?
