@@ -18,7 +18,7 @@ status: draft
 ## Body
 
 - **Stock:** family **Anguillidae** (eels) — an alien genus ([[Kilayim Races]]).
-- **Goblinish.** **Short, skinny humanoids** with **black skin**, big freaky **eel eyes**, and a wide, toothy **eel mouth.** Wet, dark, unsettling to look at.
+- **Goblinish.** **Skinny humanoids of human height** (short beside an 8–10 ft Tahor), with **black skin**, big freaky **eel eyes**, and a wide, toothy **eel mouth.** Wet, dark, unsettling to look at.
 - **The shape:** picture a person with the head taken off and an **eel's head set where the human head was**. The eel's body runs **all the way down the back**, making a **big eel bulge along the spine**, and comes out as a **tail** of decent length. The human parts are covered in **eel skin**.
 - **Capped at half-animal** (a Saraïm underclass race) — humanoid in frame, eel in head, spine-ridge, tail and skin.
 - **Low IQ** — cunning in a scrappy, gutter way, but no scholars.
@@ -30,7 +30,8 @@ status: draft
 - **Extraordinary smell.** Like real eels, they have one of the keenest noses of any creature: they can **smell blood, fear, or a person through water and mud.**
 - **Sex set by crowding.** As in real eels, **crowded young turn male, sparse young turn female**. Ruakei born in cramped Saraïm slums come out **mostly male**; free [[Pātuna]] raises **more daughters**. Bondage literally reshapes the people.
 - **Pale children.** Infants are **pale and a little red**, because you can see their insides through the skin (like real "glass eels"). They darken to black as they grow.
-- **Silvering.** In old age a Ruakei **silvers**, like a real eel before its last migration: the skin turns silver, the eyes grow huge, and they feel a **pull toward the open sea**.
+- **Silvering.** In old age a Ruakei **silvers**, like a real eel before its last migration: the skin turns silver, the eyes grow huge, and they feel a **pull toward the open sea**. Answering it is a **sacred last walk into the sea**: *the water takes back its own.*
+- **Wet, clicky speech.** Through an eel's mouth, their speech is **wet and clicky**, at least to Saraïm ears.
 
 ## Origin (why eelfolk exist)
 
@@ -81,6 +82,8 @@ The myth gives them **pride against contempt:** they descend from **a goddess an
 - [[Kilayim Races]] · [[Saraïm]] (their oppressors) · [[The Ocean World|Iyim]] (their free cities) · [[Book Plotline]] (the besieged eelfolk city).
 
 ## Open questions
+
+- **Lifespan:** long-lived like real eels (80+ years), or ordinary?
 
 
 - Having **no special powers**, how do they **fight** when cornered — numbers, water, ambush, slipperiness, knowing the harbor blind?

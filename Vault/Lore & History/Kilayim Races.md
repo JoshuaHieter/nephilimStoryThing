@@ -59,7 +59,7 @@ The empire of [[Saraïm]] runs on a **caste-stack of eight** Kilayim races. **Ea
 
 ### Ruakei — eel-folk (Baraqiel)
 - **Stock:** family **Anguillidae** (eels), alien genus. **Name:** *Ruakei* is their own name (Māori-shaped); the Saraïm call them ***Shiqtzim***, "the Abominations" (Lev. 11:10).
-- **Form:** short, skinny, black-skinned and **goblinish**: an **eel's head** in place of a human one, the eel body running down the spine as a **ridge** and out as a **tail**, eel skin all over. Low IQ; slime-slick and amphibious.
+- **Form:** human-height, skinny, black-skinned and **goblinish**: an **eel's head** in place of a human one, the eel body running down the spine as a **ridge** and out as a **tail**, eel skin all over. Low IQ; slime-slick and amphibious.
 - **Role:** dock, dive, and sea labor — the **"unclean" bottom caste** of [[Saraïm]]; slippery survivors.
 - **→ Full write-up: [[Ruakei]].**
 
