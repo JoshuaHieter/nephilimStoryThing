@@ -23,6 +23,19 @@ status: draft
 - Oppression is **harsh and systemic** — the Kilayim are an exploited underclass, held by the fear-and-domination logic of [[Nephilim Biology & Caste|Nephilim society]].
 - *(Real-world rhyme: **theocratic ethno-fascism** — a master-race ideology fused to the state, a colonial empire of many crushed peoples under one "pure" caste.)*
 
+## Law & the Kilayim
+
+### Legal status: serfdom with local autonomy
+- Conquered Kilayim are **serfs**.
+- Autonomy is granted **not to a race as a whole**, but to the **small tribe that was conquered**: it may **police itself a little**, the way **Rome handled its subject peoples**.
+- *(This is why buying free [[Gibborim]] is frowned upon: conquered subjects hold a defined place under the law, while the unconquered have none.)*
+
+### Mixing: one law for men, another for women
+- **Tahor men with Kilayim women: not a crime.** Some Kilayim women are **prostituted** or kept as **"comfort maids."**
+  - **Their sons are neutered** and used as **eunuch liaisons** to their mother's race.
+  - **Daughters are aborted.** In secret, their organs are a **delicacy among the elite.**
+- **Tahor women with Kilayim men** are condemned as **"whoring after animalistic pleasures."** The punishment is **public execution by rape at the hands of a Kilayim executioner**, both as punishment and as a warning.
+
 ## The subject races (the Kilayim underclass)
 
 The empire runs on a **caste-stack of many** [[Kilayim Races|Kilayim]], each slotted into a role — for example:
