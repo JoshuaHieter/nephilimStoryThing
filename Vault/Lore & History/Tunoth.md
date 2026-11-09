@@ -49,6 +49,12 @@ The myth gives them **pride against contempt:** they descend from **a goddess an
 
 - An **eel-people of weir and tide** — communal, insular, water-bound; eels and the sea are kin and ancestor. To them the land-castes are the poor cousins; **the water is theirs.**
 
+## Language
+
+- **Mostly Māori-inspired dialect**: it borrows the **broad strokes of how Māori words are formed**, **not the actual words**.
+  - *(Reference, Māori sound shape: open syllables, each a consonant plus vowel or a bare vowel; no consonant clusters; words end in vowels; a small sound set: a e i o u, h k m n p r t w, ng, wh; long vowels; reduplication.)*
+- **The Hebrew gradient:** the **more Hebrew a word is, the more advanced it is, or the more it has to do with [[Saraïm]]**. Old, home, water and kin words keep the Māori shape. Technology, trade, law and the empire's things come in Hebrew-shaped.
+
 ## Character as a people
 
 - **Slippery survivors.** They slip nets, oppression, and notice alike — go-anywhere folk (through bilges, under hulls, flooded tunnels), with a name as **smugglers.** Weak in open war, but **impossible to truly stamp out.**
@@ -58,6 +64,9 @@ The myth gives them **pride against contempt:** they descend from **a goddess an
 - [[Kilayim Races]] · [[Saraïm]] (their oppressors) · [[The Ocean World|Iyim]] (their free cities) · [[Book Plotline]] (the besieged eelfolk city).
 
 ## Open questions
+
+- **Pātuna** is built from real Māori words (*pā tuna*). Keep it as an exception, or rebuild it to the new rule?
+- What do the eelfolk **call themselves**? (*Tunoth* is a Māori root with a Hebrew plural, so it could be the Saraïm's name for them.)
 
 - The **names** of the Great Eel and the Trickster.
 - Having **no special powers**, how do they **fight** when cornered — numbers, water, ambush, slipperiness, knowing the harbor blind?
