@@ -19,13 +19,18 @@ status: draft
 
 - **Stock:** family **Anguillidae** (eels) — an alien genus ([[Kilayim Races]]).
 - **Goblinish.** **Short, skinny humanoids** with **black skin**, big freaky **eel eyes**, and a wide, toothy **eel mouth.** Wet, dark, unsettling to look at.
-- **Capped at half-animal** (a Saraïm underclass race) — humanoid in frame, eel in skin, eye, and maw.
+- **The shape:** picture a person with the head taken off and an **eel's head set where the human head was**. The eel's body runs **all the way down the back**, making a **big eel bulge along the spine**, and comes out as a **tail** of decent length. The human parts are covered in **eel skin**.
+- **Capped at half-animal** (a Saraïm underclass race) — humanoid in frame, eel in head, spine-ridge, tail and skin.
 - **Low IQ** — cunning in a scrappy, gutter way, but no scholars.
 
 ## Biology
 
 - **Slime-slick & sinuous.** A protective slime coat means **you can't get a grip on one** — natural escape artists, net-slippers, hard to hold or pen.
 - **Amphibious.** They breathe air but must **stay moist**, and can **hold their breath and work underwater for ages** — which is *why* they do the **dock, dive, and sea labor** no one else can, and why they alone dare the **monster-haunted shallows.**
+- **Extraordinary smell.** Like real eels, they have one of the keenest noses of any creature: they can **smell blood, fear, or a person through water and mud.**
+- **Sex set by crowding.** As in real eels, **crowded young turn male, sparse young turn female**. Ruakei born in cramped Saraïm slums come out **mostly male**; free [[Pātuna]] raises **more daughters**. Bondage literally reshapes the people.
+- **Pale children.** Infants are **pale and a little red**, because you can see their insides through the skin (like real "glass eels"). They darken to black as they grow.
+- **Silvering.** In old age a Ruakei **silvers**, like a real eel before its last migration: the skin turns silver, the eyes grow huge, and they feel a **pull toward the open sea**.
 
 ## Origin (why eelfolk exist)
 
