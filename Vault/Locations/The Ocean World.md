@@ -26,6 +26,21 @@ status: draft
 - Per [[Setting Principles]], they're **biologically believable**, not magical — aggressive megafauna, not krakens of myth.
 - They make **sea travel dangerous** — the chief obstacle to moving around the archipelago, and the horror that **strands every crew that crosses** ([[The Pope's Mission]]).
 
+### The apex: giant sea snakes
+- The **apex predator** of the seas is a **giant sea snake**, **really big**.
+- It kills **mainly by crushing**: a constrictor.
+- **Biology:** a real snake family, alien genus. Real giant marine snakes existed (the extinct *Palaeophis*, roughly 9 m or more), and water carries weight, so a far larger one passes the biology-class test. Being air-breathers, they **must keep surfacing**, which is part of why Rephaim's monsters hunt **close to the surface**.
+
+### The rest of the roster
+Around the snakes, the seas also hold, each a real family with an alien genus:
+- **Surface squid** (giant-squid family): rise at night to drag men off decks.
+- **Ship-rammers** (sperm-whale family): territorial bulls that smash hulls.
+- **Pod-hunters** (dolphin / orca family): clever packs that have learned boats mean food.
+- **Sea-crocodiles** (crocodile family): the shallows and estuaries.
+- **Sting-mats** (man-o'-war family): drifting stinging colonies that foul oars and can close a sea lane for a season.
+
+*Suggestions (not yet canon):* the snakes called **Livyatan** or **Tanninim** by the Saraïm (Isa. 27:1; Gen. 1:21); the big deep-water hunters avoid the shallows, leaving them to crocodiles and sting-mats, which is why the eelfolk can work there.
+
 ## Technology
 
 - The civilization is **slightly more advanced than 1500s Earth** — with one glaring exception: **no gunpowder, and no guns.**
@@ -52,6 +67,6 @@ Caste terms throughout: **[[Nephilim Biology & Caste|Tahorim]]** (pure) and **Ki
 
 - **Name** — of the world itself, and its peoples? (The continent is **Rephaim**.)
 - The crew **wash ashore** at [[Pātuna]] — a free eelfolk isle on [[Saraïm]]'s marshy border (resolved).
-- What exactly are the **sea monsters** — a few signature kinds worth naming?
+- **Sea snakes:** exact size (threat to boats, or big enough to wrap a ship)? A name? Are they what took most of Drake's crew?
 - Does **"no gunpowder"** become a plot lever (the crew introducing it, or guarding the secret)?
 - What did [[The Pirate]] actually see of it as a boy, and what does [[The Outcast Scholar]] write of home?
