@@ -46,9 +46,15 @@ Toldoth's one hybrid stock is the **Ayalim** (stag-folk; full detail in [[Kilayi
 - Unlike [[Saraïm]]'s many subject races, here it's **one people**, ranked along a **spectrum of blood** — with the **balance**, not the pure end, at the top.
 - *(Real-world rhyme: blood-quantum hierarchy within a single people — but aimed at a middle, not an extreme.)*
 
+### The dual monarchy
+- Toldoth is a **monarchy**: a **dual monarchy** of **two main kingdoms that formed together** into one realm.
+- **Succession:** when the king dies, the **bloodlines present their purest candidates**, and the next king is chosen from among them.
+
 ## Religion, culture & the fear of Earth
 
 - **A dead god.** The Toldoth are **not quite atheists**, but they **don't bother worshipping** the [[The Morning Star|Morning Star]] — to them the god is **dead.** Why pray to a corpse? *(The irony: he is very much alive, just caged on Earth.)*
+- **A fervent, person-centred ideology.** No worship of the dead god, but a **fervent** creed centred on the **self**: **ascetic**, disciplined, devoted to personal growth.
+- **The constellations as inner paths.** The same fallen-angel constellations the [[The Saraïm Faith|Saraïm]] worship are, to the Toldoth, something **akin to chakras**. Each one is an **area of personal growth** to be cultivated in oneself, not a god to pray to.
 - **A weaker taboo on mixing** — mixing is the whole point, which is why Toldoth is a **fluid gradient** rather than a rigid caste.
 - **Fear of Earth:** *(TBD — likely dismissive rather than fearful; if the gods are dead myths, Earth is probably just another dead myth to them.)*
 
@@ -60,6 +66,10 @@ Toldoth's one hybrid stock is the **Ayalim** (stag-folk; full detail in [[Kilayi
 - **Silica as a resource:** because diet shapes the antler, silica-rich pastures and mineral springs are prized — and fought over.
 
 ## Open questions
+
+- **"Purest" candidates:** does purest mean **best-balanced** (Toldoth's ideal) rather than most Tahor?
+- **The two kingdoms:** do they split the island, keep separate courts, alternate the throne? Who **chooses** among the candidates?
+- **Ascetic practice:** what does it look like day to day? *Suggestion (not canon): disciplined diet and fasting regimens, since diet shapes the antler, making asceticism and breeding one project.*
 
 - The antlers are **living quartz** (resolved). Since they don't shed, are they worth *taking* — poaching from the wild ayal, or trophies cut from the dead?
 - What exactly **is** the balance — a named ratio? How is it measured or judged?
