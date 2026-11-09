@@ -24,19 +24,36 @@ status: draft
 - Less advanced than [[Saraïm]] or [[Toldoth]], but its people are **dangerously strong** — a martial, brute-force culture.
 - *(Real-world rhyme: power resting on force itself rather than inherited rank.)*
 
-## Religion, culture & the fear of Earth
+## The mountains & the wild ox
+
+- **The Gibborim are poor climbers** and see the **mountains as unreachable.**
+- **The wild ox lives up there.** The base Bovidae stock of the Reëmim is a **mountain animal**, with something the Gibborim lack that lets it live at height, **probably its lungs**: the Gibborim's lungs are **Tahor**, not ox.
+- **Why so strong:** the wild ox they bred with is **already shredded**. The strength comes straight from the stock.
+
+## Religion, culture & Earth
 
 *(Each power braids faith, culture, and its Earth-story differently. This is the Gibborim's.)*
 
-- **A pantheon that isn't there.** They worship a sprawl of **tribal gods who simply don't exist** — invented spirits and idols, none of them real. *(In this cosmology only the Judeo-Christian powers are real — [[The Morning Star]], the fallen angels, Yahweh. The Gibborim, lowest of mind, pray hardest to the emptiest heaven.)*
-- **Tribalism over empire.** No purebloods, no throne — power is **clan, warband, and the strength of the strongest arm.** Monstrously powerful, but **fractious**, never unifying.
-- **Low cunning, high muscle.** Their **dullness** keeps them from the schemes of [[Saraïm]] or [[Toldoth]] — but makes them terrifying in a straight fight.
-- **Fear of Earth:** *(TBD — likely a crude tribal taboo or boogeyman-myth, not doctrine.)*
+- **The creation story.** The **wild oxen are the older siblings**: the **first children of the mountains**, tasked with **protecting** them. The **Gibborim were created second** and **given the island.**
+- **Gods that aren't there.** Their gods **don't exist** (in this cosmology only the Judeo-Christian powers are real: [[The Morning Star]], the fallen angels, Yahweh). In their belief, **each one is a god**. *(See open questions: each mountain?)*
+- **Earth: unknown.** The Gibborim **don't even know about Earth**. They have no taboo story at all, the one exception to [[Why Earth Is Forbidden]].
+- **Clan and nothing more.** No purebloods, no throne. Power is **clan, warband, and the strongest arm.** They **lack the intelligence and administrative skill** to build anything bigger than a clan.
+- **Low cunning, high muscle.** Their **dullness** keeps them from the schemes of [[Saraïm]] or [[Toldoth]], but makes them terrifying in a straight fight.
 
 The grim irony: the Saraïm worship a god who is real; the Gibborim, the dimmest, worship gods who never were.
 
+## The outside world
+
+- **Most Gibborim hate the Tahorim**, and see them as **weak losers.**
+- **But some sell their own.** Some chiefs **enslave and trade their brothers** to outsiders for **wealth and weapons.**
+- **The fear (a possibility, not yet set):** an **outside force of smart people** could one day **rally the tribes**, and since the Gibborim hate the Tahorim, that force **might even be humans.**
+
+## Naming
+
+- Gibborim names are **3/4 Celtic, 1/4 Hebrew.** European roots are fine here.
+
 ## Open questions
 
-- The race is the **Reëmim**, ox-centaurs (alien **Bovidae** stock — [[Kilayim Races]]). *Why* does that stock breed such monstrous strength?
-- What could ever **unite the tribes** — and how terrifying would that be?
-- How do the bloodline-obsessed powers ([[Saraïm]], [[Toldoth]]) regard a pure-less land of the strong?
+- **"Each one is a god":** each mountain? Each wild ox? Each clan's ancestor?
+- **No sea travel:** why? Size, weight, fear of the water, or never needing it?
+- **Who buys the slaves:** Saraïm, Toldoth, or both? And how do traders cross to an island whose people don't sail?

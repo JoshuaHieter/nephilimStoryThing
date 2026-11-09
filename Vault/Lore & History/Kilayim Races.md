@@ -18,6 +18,7 @@ status: draft
 - **Form:** centaur-like — a towering humanoid torso on the body of a massive wild bull.
 - **Traits:** **monstrously strong**, slow-witted — the brute power of [[Gibborim]].
 - **Culture (Celtic / Māori warrior-tribe):** clan-bound; they **raid each other's herds, take heads, and boast in war-chant.** Honor and revenge (*utu*) run their world.
+- **The wild ox** is a **mountain** animal, already hugely muscled, adapted to live at height (likely its lungs). The Reëmim's lungs are Tahor, so they **can't follow it up**; they revere it as their **older sibling**. See [[Gibborim]].
 - **Name:** Heb. *re'em*, the wild ox.
 
 ## Ayalim — stag-folk ([[Toldoth]])
