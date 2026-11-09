@@ -2,3 +2,4 @@
 # Critical: the Quartz CLI scripts (quartz/bootstrap-*.mjs) have a #! shebang
 # that MUST stay LF, or Cloudflare's Linux builder fails to run them.
 * text=auto eol=lf
+*.map binary
