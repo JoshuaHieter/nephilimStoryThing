@@ -46,11 +46,16 @@ Names are borrowed from 1 Enoch's Watchers, but the aspects are **reshaped into 
 | **Gadreel** | Desire & the Taking of Brides | the descent itself: marriage, fertility, bloodlines |
 | **Araqiel** | Land & Dominion | rule, harvest, conquest; fits the Mandate |
 
+## The Kilayim in the faith
+
+- **Service is worship:** Kilayim venerate the Tahorim as **living relics** of the fallen angels, and reach the stars only **through their masters**.
+- **Each Kilayim race belongs to one constellation**, and that angel sanctifies the race's caste role ([[Saraïm#The Kilayim in the faith|Saraïm]], [[Kilayim Races]]).
+
 ## Suggestions (not yet canon): day-to-day practice
 
 - **Tahorim households** keep a house shrine, recite the bloodline, and keep the star-nights.
 - **The Sopherim** keep the **star calendar**, read omens in the constellations (sincere but inert, per [[Setting Principles]]), certify births by blood, approve marriages for purity, and officiate deaths.
-- **Kilayim laity** venerate the Tahorim as **living relics** of the fallen angels. Their service is their worship. "Unclean" races such as the [[Tunoth]] are **barred from temples**.
+
 - **Festivals:** constellation risings; a night of **vigil for the bound lord**; a remembrance of [[History of Rephaim|the Wasting]] as "the Winnowing."
 
 ## Connections

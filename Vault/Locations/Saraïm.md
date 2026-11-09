@@ -30,6 +30,15 @@ status: draft
 - Autonomy is granted **not to a race as a whole**, but to the **small tribe that was conquered**: it may **police itself a little**, the way **Rome handled its subject peoples**.
 - *(This is why buying free [[Gibborim]] is frowned upon: conquered subjects hold a defined place under the law, while the unconquered have none.)*
 
+### Keeping order
+- **No divide-and-rule.** Order is mostly **self-policing** within each conquered tribe.
+- Each tribe has a **Kilayim governor** of its own kind. It usually falls to **him** to put down unrest among his people, who see him as a **traitor**.
+- **Revolts are rare.** When they happen, **warlike Kilayim** are brought in to crush them.
+
+### The Kilayim in the faith
+- **Service is worship.** Kilayim venerate the Tahorim as **living relics** of the fallen angels, and approach the stars **through their masters**.
+- **Sanctified roles.** **Each Kilayim race belongs to one constellation**, whose angel sanctifies its caste role: *your servitude is your angel's will.* (Roster: see [[Kilayim Races]].)
+
 ### Mixing: one law for men, another for women
 - **Tahor men with Kilayim women: not a crime.** Some Kilayim women are **prostituted** or kept as **"comfort maids."**
   - **Their sons are neutered** and used as **eunuch liaisons** to their mother's race.
