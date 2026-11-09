@@ -23,5 +23,5 @@ status: draft
 ## Open questions
 
 - What does Zebul *look* like — its architecture, the palace, the priests' temple-archives?
-- Where on [[The Ocean World|Rephaim]] does it sit (which island / region)?
+- *(Resolved: on the **Crown Isle**, Saraïm's central island; see [[Saraïm#Nationalities (the provinces)|Nationalities]].)*
 - How do four — then three — fugitives get *into* it to reach the throne?

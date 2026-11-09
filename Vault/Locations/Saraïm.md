@@ -46,6 +46,8 @@ The empire **consolidated from rival holdings** after [[History of Rephaim|the W
 | **The Old Rival** | Once had its **own claim to the King of Canaan's line**. Conquered, not joined. Outwardly loyal, nursing a grudge: a **succession threat** after the regicide. | **Akkadian / Babylonian** |
 | **The Toldoth Border** | Faces [[Toldoth]]. Rumours of "dilution," smuggling and mixed-blood scandals; the priests watch it closely. | *TBD* |
 
+**On the map:** Saraïm holds the central island plus four nearby large islands, **one nationality per island**. The **Crown Isle** is the central island, with [[Zebul]]. The **Toldoth Border** is the island facing [[Toldoth]] to the west. The **Forge Isles** are the outermost island, on open sea for the shipyards. The **Old Rival** is a whole island of its own. The **Marsh March** is the remaining island, with [[Pātuna]] on a marshy coast facing the Iyim.
+
 The [[The Saraïm Faith|pantheon]] is shared by all of them and **not tied to any nationality**.
 
 ## Religion = state: theocratic ethno-fascism
