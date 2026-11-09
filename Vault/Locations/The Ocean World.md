@@ -27,7 +27,7 @@ status: draft
 - They make **sea travel dangerous** — the chief obstacle to moving around the archipelago, and the horror that **strands every crew that crosses** ([[The Pope's Mission]]).
 
 ### The apex: giant sea snakes
-- The **apex predator** of the seas is a **giant sea snake**, **really big**.
+- The **apex predator** of the seas is a **giant sea snake**, averaging **30 metres** long.
 - It kills **mainly by crushing**: a constrictor.
 - **Biology:** a real snake family, alien genus. Real giant marine snakes existed (the extinct *Palaeophis*, roughly 9 m or more), and water carries weight, so a far larger one passes the biology-class test. Being air-breathers, they **must keep surfacing**, which is part of why Rephaim's monsters hunt **close to the surface**.
 
@@ -67,6 +67,6 @@ Caste terms throughout: **[[Nephilim Biology & Caste|Tahorim]]** (pure) and **Ki
 
 - **Name** — of the world itself, and its peoples? (The continent is **Rephaim**.)
 - The crew **wash ashore** at [[Pātuna]] — a free eelfolk isle on [[Saraïm]]'s marshy border (resolved).
-- **Sea snakes:** exact size (threat to boats, or big enough to wrap a ship)? A name? Are they what took most of Drake's crew?
+- **Sea snakes:** a name? Are they what took most of Drake's crew?
 - Does **"no gunpowder"** become a plot lever (the crew introducing it, or guarding the secret)?
 - What did [[The Pirate]] actually see of it as a boy, and what does [[The Outcast Scholar]] write of home?
