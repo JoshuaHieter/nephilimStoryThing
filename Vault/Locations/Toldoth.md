@@ -39,6 +39,7 @@ Toldoth's one hybrid stock is the **Ayalim** (stag-folk; full detail in [[Kilayi
 - **Too little animal:** an antlerless near-Tahor — no sense at all.
 - **Too much:** the antlers flood the mind — sharp-sensed, but dim, out toward a near-full great stag.
 - **The balance:** the sense is strong *and* the mind can still use it. That — not purity — is the Toldoth ideal.
+- **The target is two-thirds Tahor.** It is hard to hit, because **breeding math doesn't work that way**: each generation halves, so pedigrees land on 1/2, 3/4, 5/8, 11/16… and only creep toward 2/3, never landing on it. Inheritance is also **a bit random**, so two children of the same parents can come out differently balanced. The ideal is always being chased and never guaranteed.
 - Blood is still **read at a glance by the antlers** — but now the prized rack is the **right** one, not the biggest.
 
 ## Power & control
@@ -48,13 +49,26 @@ Toldoth's one hybrid stock is the **Ayalim** (stag-folk; full detail in [[Kilayi
 
 ### The dual monarchy
 - Toldoth is a **monarchy**: a **dual monarchy** of **two main kingdoms that formed together** into one realm.
-- **Succession:** when the king dies, the **bloodlines present their purest candidates**, and the next king is chosen from among them.
+- **Succession:** when the king dies, the **bloodlines present their best-balanced candidates**, and the next king is decided by a **contest using antlers**.
 
 ## Religion, culture & the fear of Earth
 
 - **A dead god.** The Toldoth are **not quite atheists**, but they **don't bother worshipping** the [[The Morning Star|Morning Star]] — to them the god is **dead.** Why pray to a corpse? *(The irony: he is very much alive, just caged on Earth.)*
 - **A fervent, person-centred ideology.** No worship of the dead god, but a **fervent** creed centred on the **self**: **ascetic**, disciplined, devoted to personal growth.
-- **The constellations as inner paths.** The same fallen-angel constellations the [[The Saraïm Faith|Saraïm]] worship are, to the Toldoth, something **akin to chakras**. Each one is an **area of personal growth** to be cultivated in oneself, not a god to pray to.
+- **The constellations as inner paths.** The same fallen-angel constellations the [[The Saraïm Faith|Saraïm]] worship are, to the Toldoth, something **akin to chakras**. Each one is an **area of personal growth** to be cultivated in oneself, not a god to pray to. The eight paths **map onto the Saraïm aspects, turned inward**:
+
+| Constellation | Saraïm aspect (outward) | Toldoth path (inward), *draft* |
+|---|---|---|
+| Azazel | War & the Forge | discipline of the body; tempering oneself |
+| Kokabiel | the Stars & Voyaging | the inner journey; finding one's bearing |
+| Baraqiel | Storm & Sea | mastering passion and temper |
+| Penemue | Writing & Memory | the mind; study and recollection |
+| Sariel | the Moon, Tides & Death | acceptance of endings; facing one's death |
+| Armaros | Secrets & Cunning | self-knowledge; seeing through one's own lies |
+| Gadreel | Desire & the Taking of Brides | mastery of desire; choosing a match for the balance |
+| Araqiel | Land & Dominion | self-rule; command of one's own life |
+
+- **Ascetic practice.** **Fasting and strict diet regimens**: since diet shapes the antler, **self-denial and breeding are one project**. The **silica springs** serve as something like **monasteries**.
 - **A weaker taboo on mixing** — mixing is the whole point, which is why Toldoth is a **fluid gradient** rather than a rigid caste.
 - **Fear of Earth:** *(TBD — likely dismissive rather than fearful; if the gods are dead myths, Earth is probably just another dead myth to them.)*
 
@@ -67,9 +81,7 @@ Toldoth's one hybrid stock is the **Ayalim** (stag-folk; full detail in [[Kilayi
 
 ## Open questions
 
-- **"Purest" candidates:** does purest mean **best-balanced** (Toldoth's ideal) rather than most Tahor?
-- **The two kingdoms:** do they split the island, keep separate courts, alternate the throne? Who **chooses** among the candidates?
-- **Ascetic practice:** what does it look like day to day? *Suggestion (not canon): disciplined diet and fasting regimens, since diet shapes the antler, making asceticism and breeding one project.*
+- **The two kingdoms:** do they split the island, or keep separate courts? Is it **one king** over both? What form does the **antler contest** take: the sense, the disorienting touch, display?
 
 - The antlers are **living quartz** (resolved). Since they don't shed, are they worth *taking* — poaching from the wild ayal, or trophies cut from the dead?
 - What exactly **is** the balance — a named ratio? How is it measured or judged?
