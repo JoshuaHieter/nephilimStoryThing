@@ -70,7 +70,7 @@ Toldoth's one hybrid stock is the **Ayalim** (stag-folk; full detail in [[Kilayi
 
 - **Ascetic practice.** **Fasting and strict diet regimens**: since diet shapes the antler, **self-denial and breeding are one project**. The **silica springs** serve as something like **monasteries**.
 - **A weaker taboo on mixing** — mixing is the whole point, which is why Toldoth is a **fluid gradient** rather than a rigid caste.
-- **Fear of Earth:** *(TBD — likely dismissive rather than fearful; if the gods are dead myths, Earth is probably just another dead myth to them.)*
+- **Earth is a fairytale.** The Toldoth see Earth, and the whole story of a lord bound there, as a **fairytale told to subject the constellations**: it turns the inner paths into outside powers to be served, and so into **indulgences**. *(Aimed squarely at [[The Saraïm Faith|the Saraïm]].)*
 
 ## Why Toldoth breeds for balance
 

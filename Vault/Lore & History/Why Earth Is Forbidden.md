@@ -26,7 +26,8 @@ The real reason is lost. The various [[The Nephilim Worlds|Nephilim cultures]] e
 - *"You shouldn't go to Earth."* (a taboo, no reason given)
 - *"Earth doesn't exist."* (denial — the place is a myth, a lie, nothing)
 - *"Yahweh destroyed Earth in the Flood."* (the **[[Saraïm]]** line — Earth is the enemy's rubble, nothing there but ruin; said in triumph, not fear)
-- *(other framings — TBD: [[Toldoth]], [[Gibborim]], the isles…)*
+- *"Earth is a fairytale."* (the **[[Toldoth]]** line: a story told to subject the constellations and turn the inner paths into indulgences)
+- *(other framings — TBD: [[Gibborim]], the isles…)*
 
 **Crucially, these cover-stories *conflict* with one another** — and that contradiction is itself a crack in the wall. It's what made [[The Outcast Scholar]] suspicious enough to investigate: if every culture forbids Earth but for different, incompatible reasons, *something* real is being hidden behind them all. Each power braids its **religion, culture, and fear of Earth** into a single story — and braids it *differently* (the [[Saraïm]]'s is Morning-Star conquest; [[Toldoth]]'s and [[Gibborim]]'s remain to be set).
 
