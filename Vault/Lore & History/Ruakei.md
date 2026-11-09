@@ -35,8 +35,8 @@ Like every [[Kilayim Races|Kilayim]], the Ruakei are **Nephilim crossed with a n
 
 The eelfolk's origin myth — *their* truth, fiercely held:
 
-- **The Mother — the Great Eel.** A **queen of the eels** and a **goddess who birthed the marsh** itself. In those days, they say, **eels were a sentient people**, her subjects.
-- **The Father — a trickster Nephilim.** A cunning wanderer who came to the marsh to **catch the Great Eel for food** — but she's a trickster too, slipping every net and **bantering back**, and their contest of wits turned to **love.** Two tricksters who bonded over the chase. Their children became the **eelfolk:** her water, *both* their cunning.
+- **The Mother — the Great Eel, *Whaetunu*.** A **queen of the eels** and a **goddess who birthed the marsh** itself. In those days, they say, **eels were a sentient people**, her subjects.
+- **The Father — a trickster Nephilim, *Māwiel*.** A cunning wanderer who came to the marsh to **catch the Great Eel for food** — but she's a trickster too, slipping every net and **bantering back**, and their contest of wits turned to **love.** Two tricksters who bonded over the chase. Their children became the **eelfolk:** her water, *both* their cunning.
 - **The Curse.** When the eelfolk were born, the **[[Saraïm]] cursed the eels to lose their speech** — which is why the **wild eels of the marsh seem dumb beasts now**, no longer the speaking people they were. A stolen birthright; a fallen kin.
 - **Cousins, not beasts.** So the eelfolk treat the **wild eels as kin — cousins who are *still people*, simply robbed of speech.** They'd no sooner eat one than eat a relative; they speak *to* them, tend them, mourn them. *(Deeper than the [[Toldoth]]'s love of the wild ayal, which is fondness for a beloved animal, not a person.)*
 
@@ -62,6 +62,11 @@ The myth gives them **pride against contempt:** they descend from **a goddess an
 - **Exception:** **[[Pātuna]]** keeps its name, even though it is built from real Māori words (*pā tuna*).
 - **The Hebrew gradient:** the **more Hebrew a word is, the more advanced it is, or the more it has to do with [[Saraïm]]**. Old, home, water and kin words keep the Māori shape. Technology, trade, law and the empire's things come in Hebrew-shaped.
 
+### Their names
+- ***Whaetunu*** (the Great Eel): a near-miss on Māori *whaea* "mother" + *tuna* "eel." Pure marsh-shaped.
+- ***Māwiel*** (the Trickster): a near-miss on **Māui**, the Polynesian trickster, plus the Hebrew ***-el***. Since he is a Nephilim, his name carries a Hebrew, angelic edge (the language's Hebrew gradient).
+- *(Real-myth echo: in Polynesian legend the trickster Māui **kills** Tuna, an eel lover. The Ruakei story inverts it: the trickster **wins** the eel through love.)*
+
 ## Character as a people
 
 - **Slippery survivors.** They slip nets, oppression, and notice alike — go-anywhere folk (through bilges, under hulls, flooded tunnels), with a name as **smugglers.** Weak in open war, but **impossible to truly stamp out.**
@@ -73,6 +78,5 @@ The myth gives them **pride against contempt:** they descend from **a goddess an
 ## Open questions
 
 
-- The **names** of the Great Eel and the Trickster.
 - Having **no special powers**, how do they **fight** when cornered — numbers, water, ambush, slipperiness, knowing the harbor blind?
 - Their broader **religion / Earth-belief** beyond the origin-myth?
