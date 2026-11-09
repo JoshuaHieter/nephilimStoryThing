@@ -7,11 +7,11 @@ status: draft
 
 # Pātuna
 
-> The free [[Tunoth|eelfolk]] city where the [[Book Plotline|book]] opens — a marsh-island fortress of escaped slaves on [[Saraïm]]'s very doorstep, under a siege that cannot quite close. Its name means **"eel-weir"**: a fortress that is also a trap.
+> The free [[Ruakei|eelfolk]] city where the [[Book Plotline|book]] opens — a marsh-island fortress of escaped slaves on [[Saraïm]]'s very doorstep, under a siege that cannot quite close. Its name means **"eel-weir"**: a fortress that is also a trap.
 
 ## At a glance
 
-- A free **[[Tunoth]] (eelfolk)** [[The Ocean World|Iyim]] city-state — poor, weak, defiant.
+- A free **[[Ruakei]] (eelfolk)** [[The Ocean World|Iyim]] city-state — poor, weak, defiant.
 - Built on a **marshy island** on the **coastal fringe of [[Saraïm]]** — right on the empire's border.
 - **Under Saraïm siege** — a grinding stalemate it can't lose and can't win.
 - **Name:** Māori *pā tuna*, an **eel-weir** (and *pā*, a fortified village). The eelfolk's fortress *is* a great living weir in the marsh. *(The Saraïm have their own contemptuous name for it — TBD.)*
@@ -22,7 +22,7 @@ On the **marshy coast of Saraïm itself**, not off in the scattered Iyim — a f
 
 ## History — a marsh of runaways
 
-Pātuna was founded, and is forever refilled, by **eelfolk who slipped out of [[Saraïm]] bondage.** Being slime-slick escape artists ([[Tunoth]]), they fled into the one place the empire couldn't follow — the deadly bog only amphibious eelfolk can live in. Over generations a fugitive haven grew into a poor, proud free city: **a maroon colony of the empire's own escaped "unclean."**
+Pātuna was founded, and is forever refilled, by **eelfolk who slipped out of [[Saraïm]] bondage.** Being slime-slick escape artists ([[Ruakei]]), they fled into the one place the empire couldn't follow — the deadly bog only amphibious eelfolk can live in. Over generations a fugitive haven grew into a poor, proud free city: **a maroon colony of the empire's own escaped "unclean."**
 
 ## Why it holds (the stalemate)
 

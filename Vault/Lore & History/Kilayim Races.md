@@ -42,7 +42,7 @@ The empire of [[Saraïm]] runs on a **caste-stack of eight** Kilayim races. **Ea
 |---|---|---|
 | Azazel (War & the Forge) | Kelevim | soldiers; crush revolts |
 | Kokabiel (Stars & Voyaging) | Atalefim | night-watch, lookouts, navigators' aides |
-| Baraqiel (Storm & Sea) | Tunoth | dock, dive, sea labour |
+| Baraqiel (Storm & Sea) | Ruakei ("Shiqtzim") | dock, dive, sea labour |
 | Penemue (Writing & Memory) | Orevim | scribes, messengers |
 | Sariel (Moon, Tides & Death) | Rachamim | undertakers, public executioners |
 | Armaros (Secrets & Cunning) | Tinshamim | spies, informers |
@@ -57,11 +57,11 @@ The empire of [[Saraïm]] runs on a **caste-stack of eight** Kilayim races. **Ea
 - **Stock:** order **Chiroptera** (bats); an Earth bat family, alien genus. **Name:** Heb. *atalef*, "bat."
 - **Role:** **night-watch, lookouts, navigators' aides.** They **echolocate** in the dark.
 
-### Tunoth — eel-folk (Baraqiel)
-- **Stock:** family **Anguillidae** (eels), alien genus. **Name:** Māori *tuna*, "eel."
+### Ruakei — eel-folk (Baraqiel)
+- **Stock:** family **Anguillidae** (eels), alien genus. **Name:** *Ruakei* is their own name (Māori-shaped); the Saraïm call them ***Shiqtzim***, "the Abominations" (Lev. 11:10).
 - **Form:** short, skinny, black-skinned, big eel eyes and toothy maw — **goblinish**; low IQ; slime-slick and amphibious.
 - **Role:** dock, dive, and sea labor — the **"unclean" bottom caste** of [[Saraïm]]; slippery survivors.
-- **→ Full write-up: [[Tunoth]].**
+- **→ Full write-up: [[Ruakei]].**
 
 ### Orevim — raven-folk (Penemue)
 - **Stock:** family **Corvidae** (crows / ravens / jays), alien genus. **Name:** Heb. *orev*, "raven."
@@ -85,7 +85,7 @@ The empire of [[Saraïm]] runs on a **caste-stack of eight** Kilayim races. **Ea
 
 ## The Iyim (free enclaves)
 
-The island city-states of the [[The Ocean World|Iyim]] are a scatter of **weaker, independent city-states — each populated *wholly* by a single [[Saraïm]]-underclass race.** The same race that is crushed chattel under Saraïm lives **free, but weak,** on its own isle: an isle of Chazirim, an isle of Tunoth, an isle of Orevim, and so on. Built-in oppressed-vs-free-diaspora tension. *(Individual isles TBD.)*
+The island city-states of the [[The Ocean World|Iyim]] are a scatter of **weaker, independent city-states — each populated *wholly* by a single [[Saraïm]]-underclass race.** The same race that is crushed chattel under Saraïm lives **free, but weak,** on its own isle: an isle of Chazirim, an isle of Ruakei, an isle of Orevim, and so on. Built-in oppressed-vs-free-diaspora tension. *(Individual isles TBD.)*
 
 ## Still open
 

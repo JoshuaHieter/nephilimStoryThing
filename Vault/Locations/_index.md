@@ -13,7 +13,7 @@ Map of all locations. Use [[Templates/Location|the Location template]] for new e
   - [[Toldoth]] — one blended people who breed for a balance of blood, not purity
   - [[Gibborim]] — no purebloods, less advanced, but freakishly strong
   - *the Iyim — weak independent city-states, each wholly one Saraïm-underclass race (TBD)*
-    - [[Pātuna]] — besieged Tunoth eelfolk city (a marsh-island fortress of runaways on Saraïm's border); the book's opening
+    - [[Pātuna]] — besieged Ruakei eelfolk city (a marsh-island fortress of runaways on Saraïm's border); the book's opening
 - *Second alien world — biome TBD*
 - *Third alien world — biome TBD*
 

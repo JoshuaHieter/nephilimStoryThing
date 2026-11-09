@@ -51,7 +51,7 @@ The empire runs on a **caste-stack of eight** [[Kilayim Races|Kilayim]] races, *
 
 - **Kelevim** (hound-folk; Azazel): soldiers; crush revolts.
 - **Atalefim** (bat-folk; Kokabiel): night-watch, lookouts, navigators' aides.
-- **Tunoth** (eel-folk; Baraqiel): dock, dive and sea labour.
+- **Shiqtzim**, "the Abominations" (eel-folk, who call themselves [[Ruakei]]; Baraqiel): dock, dive and sea labour.
 - **Orevim** (raven-folk; Penemue): scribes and messengers.
 - **Rachamim** (vulture-folk; Sariel): undertakers and public executioners, "the Mercies."
 - **Tinshamim** (chameleon-folk; Armaros): spies and informers.

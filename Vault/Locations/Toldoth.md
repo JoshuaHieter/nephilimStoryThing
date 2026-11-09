@@ -29,7 +29,7 @@ Toldoth's one hybrid stock is the **Ayalim** (stag-folk; full detail in [[Kilayi
 
 **Diet matters.** The crystal is built from **silica** the ayal takes in — silica-rich grasses, mineral springs — carried by special proteins and laid onto a collagen frame under living velvet. **What you eat shapes the antler you grow.**
 
-**The wild ayal.** That same alien deer **roams the isles wild, in herds.** Not held *sacred* — but to **kill or eat one is deep taboo**, the way eating a pet dog would be in America: too close to kin, too much a companion. *(Cherished as a beloved **animal**, though — not believed a person, unlike the [[Tunoth]]'s sentient eel-cousins.)*
+**The wild ayal.** That same alien deer **roams the isles wild, in herds.** Not held *sacred* — but to **kill or eat one is deep taboo**, the way eating a pet dog would be in America: too close to kin, too much a companion. *(Cherished as a beloved **animal**, though — not believed a person, unlike the [[Ruakei]]'s sentient eel-cousins.)*
 
 > **Crew hook:** a starving, marooned crew will see those herds as *food.* Butchering one among the Toldoth is a grave — maybe violent — offense. Survival vs. local taboo, head-on.
 

@@ -19,7 +19,7 @@ Cosmology, timeline, historical events, and standalone concepts. Use [[Templates
 - [[Kilayim Races]] — the hybrid races (the "alien types"): ox-centaurs, boar-, hound-, eel-, raven-folk…
 - [[History of Rephaim]] — the continent's history, from the Flood-flight through the Wasting to the dawn of engines
 - [[The Saraïm Faith]] — the Morning Star as bound pole star; the fallen angels as constellations
-- [[Tunoth]] — the eelfolk: goblinish, "unclean" bottom caste; the book's besieged people
+- [[Ruakei]] — the eelfolk (the Saraïm's "Shiqtzim"): goblinish, "unclean" bottom caste; the book's besieged people
 - [[Real-World Nephilim Theology]] — *(reference)* the actual biblical texts & historical interpretations, and who held them
 - [[Why Earth Is Forbidden]] — the prohibition, its true reason, and its disguises
 - [[The Morning Star]] — Satan, alive and caged on Earth; the Saraïm know he's bound, but not that Earth is habitable and he's reachable

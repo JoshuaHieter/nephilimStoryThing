@@ -9,7 +9,7 @@ status: draft
 
 > ***Of Giants and Grasshoppers*, Book 1: *1528*.**
 >
-> The **strict, set** narrative — the novel. The four crash into a besieged **[[Tunoth|eelfolk]]** [[The Ocean World|Iyim]] city, **save it — and are betrayed the moment it's safe.** A deadly secret must be **buried in blood**, and they fight their way **home** — two of them dying so the other two can carry the truth back to Earth. Behind enemy lines the whole way.
+> The **strict, set** narrative — the novel. The four crash into a besieged **[[Ruakei|eelfolk]]** [[The Ocean World|Iyim]] city, **save it — and are betrayed the moment it's safe.** A deadly secret must be **buried in blood**, and they fight their way **home** — two of them dying so the other two can carry the truth back to Earth. Behind enemy lines the whole way.
 
 ## Continuity
 
@@ -25,7 +25,7 @@ status: draft
 
 ## The landing (opening)
 
-- The four wash up at **[[Pātuna]]** — a weak, free [[Tunoth|eelfolk]] [[The Ocean World|Iyim]] city-state on a **marshy island**, a fortress of runaways on [[Saraïm]]'s border — **already under siege.** The marsh makes it nearly impossible to storm, and they fish for endless food, so the siege is a **grinding stalemate.**
+- The four wash up at **[[Pātuna]]** — a weak, free [[Ruakei|eelfolk]] [[The Ocean World|Iyim]] city-state on a **marshy island**, a fortress of runaways on [[Saraïm]]'s border — **already under siege.** The marsh makes it nearly impossible to storm, and they fish for endless food, so the siege is a **grinding stalemate.**
 - They crash straight into a **war zone**: an oppressed free people on the verge of conquest by the Satan-worshipping empire.
 - First contact is with the **besieged eelfolk**; [[The Lutheran|Konrad]]'s translation is the crew's lifeline from the first hour.
 
@@ -42,7 +42,7 @@ status: draft
 - **START (0%):** scholar prologue → 1520s Europe: the giant corpse, the near-Hebrew diary, the Pope assembling the mixed crew.
 - **~9% — DEPARTURE *(brief):*** the team clicks shut — **Mateus** the last piece, dragged aboard **off the gallows** after his crew's failed raid on the ship — and they sail. Crew frictions go live at once (Konrad's "Fra'" jabs, Drake watching the pirate, Bartolomeo pulling rank); the last of Earth drops behind. *(Little time on the boat.)*
 - **~12% — THE CROSSING & THE SHALLOWS-SLAUGHTER:** far out, the star appears; they sail at it; the uncanny crossing ([[The Crossing]]) — sea unchanged, the sky swapping over. Then in the new world's waters the **sea monsters** hit, and **most of the crew are devoured** ([[The Pope's Mission]]). The **four** survive, cast toward an unknown shore — the trauma that founds the survivor's guilt, the crew cut to four and stranded.
-- **~25% — LOCK-IN:** in the marsh city the crew **throw in with the [[Tunoth|eelfolk]].** Their **gunpowder** (finite, salvaged — see [[The Ocean World]]) is a weapon these besieged goblins have never seen; it makes the crew valued defenders and buys a taste of **hope** (though it can't break the stalemate alone). Here **Mateus befriends one eelfolk in particular** — and **Konrad lays down the rule: guard the truth of Earth and where they came from.** Point of no return into the city's war.
+- **~25% — LOCK-IN:** in the marsh city the crew **throw in with the [[Ruakei|eelfolk]].** Their **gunpowder** (finite, salvaged — see [[The Ocean World]]) is a weapon these besieged goblins have never seen; it makes the crew valued defenders and buys a taste of **hope** (though it can't break the stalemate alone). Here **Mateus befriends one eelfolk in particular** — and **Konrad lays down the rule: guard the truth of Earth and where they came from.** Point of no return into the city's war.
 - **~33% — THE CONFIDED SECRET, AND THE BETRAYAL:** worn down and aching to unburden his past, **Mateus confides the secret of Earth to his eelfolk friend** — breaking Konrad's rule, trusting the friendship. The friend **swears to keep it** — then **trades it as a bargaining chip to save the city:** the intelligence that *Earth survived, and humans are here* is explosive enough to **buy the siege's end.** **The city is saved — by selling out the crew.** The friend's treachery (and Mateus's own slip) **shatters his hope in the Kilayim** and leaves him **complicit in the catastrophe.** *(Act 1 = the siege + the tour of the world; [[Gibborim]] and pure [[Nephilim Biology & Caste|Tahorim]] stay mostly offscreen.)*
 - **~35% — THE FRIEND'S HEAD (right after the siege lifts):** Mateus, **heartbroken** the secret is out, confronts his friend — who is **baffled it's even a problem** (his whole city is *saved* — what's the harm?). The crew get two sentences out of him: *who else did you tell?* **No one** — only the buyer. Then **Bartolomeo lops his head off**, cold and certain (a soulless Kilayim, a loose end — no sin in his eyes), **horrifying Mateus.** First blood — and the leak now sits with one man: the *sar*.
 - **THE NEW PROBLEM (the manhunt):** the secret is loose — the [[Saraïm]] **siege-commander** (a *sar*) bought it, and means to carry it **personally up the chain** for the **glory** of being the one to deliver it. That ambition is the crew's salvation: because **everyone who learns it hoards it for their own advancement** — telling *only* their higher-up — the secret travels a **thin vertical line**, not a wildfire. So the crew don't face a genocide; they chase a **short chain of glory-hungry men**, racing the report up toward the capital. Kill the holders before it lands. A hunt with a ticking clock (→ [[The Morning Star|Satan, invasion]]).
@@ -68,7 +68,7 @@ status: draft
 
 ## Open questions
 
-- **Mateus's eelfolk friend** — name, personality, and what becomes of him after the betrayal? (A [[Tunoth]] ally-turned-Judas — possibly a POV foil.)
+- **Mateus's eelfolk friend** — name, personality, and what becomes of him after the betrayal? (A [[Ruakei]] ally-turned-Judas — possibly a POV foil.)
 - The **regicide's fallout** — a succession crisis? How do [[The Saraïm Priesthood|the priests]] respond, and how fast does the hunt for the king-killers turn toward Earth?
 - **[[Pātuna]]**'s leaders/factions (and which one is Mateus's friend); the Saraïm's contemptuous name for the place.
 - Names still open: **Mateus's eelfolk friend**, the **sar** commander, the **Great Eel & the Trickster**, the **scholar.**
