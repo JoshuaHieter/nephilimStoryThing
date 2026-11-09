@@ -40,6 +40,8 @@ The myth gives them **pride against contempt:** they descend from **a goddess an
 
 ## Place in the world
 
+- **Constellation:** the eelfolk's sanctified caste role belongs to **Baraqiel** (Storm & Sea) in [[The Saraïm Faith]].
+
 - **The "unclean" caste.** In the Hebrew-derived worldview of [[Saraïm]], a **scaleless thing is ritually unclean** — so the eelfolk are the **despised bottom caste**, doing the unclean wet-work: bilges, sewers, corpse-hauling, diving, the harbor's filth. Their oppression carries a **religious** justification, which makes it bite all the harder.
 - **Free, but weak.** Some live as their own **[[The Ocean World|Iyim]] city-states** — sovereign but fragile. One such — **[[Pātuna]]** — is under [[Saraïm]] siege in the [[Book Plotline]].
 

@@ -34,25 +34,54 @@ status: draft
 
 ## The Saraïm underclass
 
-The empire of [[Saraïm]] runs on a **caste-stack of many** Kilayim races, each slotted into the imperial machine. A starter roster:
+The empire of [[Saraïm]] runs on a **caste-stack of eight** Kilayim races. **Each belongs to one constellation** of [[The Saraïm Faith|the faith]], whose fallen angel sanctifies the race's caste role. All eight stocks are **unclean animals under Leviticus 11 / Deuteronomy 14**, while the free neighbours ([[Gibborim|Reëmim]] oxen, [[Toldoth|Ayalim]] deer) descend from **clean** ones.
 
-### Chazirim — boar-folk
-- **Stock:** family **Suidae** (pigs / boars), alien genus. **Name:** Heb. *chazir*, "swine."
-- **Role:** brute labor — miners, haulers, shock-troops. Tusked, thick, tireless.
+> **Moving up:** accepting the sanctified role is how a Kilayim gets out of the **backwater governorship** to the **big city or a great estate**, and gets **paid**.
 
-### Kelevim — hound-folk
+| Constellation | Race | Role |
+|---|---|---|
+| Azazel (War & the Forge) | Kelevim | soldiers; crush revolts |
+| Kokabiel (Stars & Voyaging) | Atalefim | night-watch, lookouts, navigators' aides |
+| Baraqiel (Storm & Sea) | Tunoth | dock, dive, sea labour |
+| Penemue (Writing & Memory) | Orevim | scribes, messengers |
+| Sariel (Moon, Tides & Death) | Rachamim | undertakers, public executioners |
+| Armaros (Secrets & Cunning) | Tinshamim | spies, informers |
+| Gadreel (Desire & Brides) | Arnavim | comfort maids, concubines, wet-nurses, midwives |
+| Araqiel (Land & Dominion) | Chazirim | miners, farmers, haulers |
+
+### Kelevim — hound-folk (Azazel)
 - **Stock:** family **Canidae** (dogs / wolves), alien genus. **Name:** Heb. *kelev*, "dog."
-- **Role:** trackers, soldiers, loyal servants — the empire's leashed muscle and noses.
+- **Role:** trackers, soldiers, loyal servants. The empire's leashed muscle and noses, and the **warlike race brought in to crush revolts.**
 
-### Tunoth — eel-folk
+### Atalefim — bat-folk (Kokabiel)
+- **Stock:** order **Chiroptera** (bats); an Earth bat family, alien genus. **Name:** Heb. *atalef*, "bat."
+- **Role:** **night-watch, lookouts, navigators' aides.** They **echolocate** in the dark.
+
+### Tunoth — eel-folk (Baraqiel)
 - **Stock:** family **Anguillidae** (eels), alien genus. **Name:** Māori *tuna*, "eel."
 - **Form:** short, skinny, black-skinned, big eel eyes and toothy maw — **goblinish**; low IQ; slime-slick and amphibious.
 - **Role:** dock, dive, and sea labor — the **"unclean" bottom caste** of [[Saraïm]]; slippery survivors.
 - **→ Full write-up: [[Tunoth]].**
 
-### Orevim — raven-folk
+### Orevim — raven-folk (Penemue)
 - **Stock:** family **Corvidae** (crows / ravens / jays), alien genus. **Name:** Heb. *orev*, "raven."
-- **Role:** clever and servile — scribes, messengers, spies. The sharpest of the underclass, and the most quietly dangerous.
+- **Role:** **scribes and messengers.** The sharpest of the underclass, and the most quietly dangerous. *(Spying now belongs to the Tinshamim.)*
+
+### Rachamim — vulture-folk (Sariel)
+- **Stock:** family **Accipitridae** (Old World vultures), alien genus. **Name:** Heb. *racham*, the carrion vulture. *Rachamim* also means **"mercy,"** so the executioners are grimly called **"the Mercies."**
+- **Role:** **undertakers, corpse-burners, and the public executioners.**
+
+### Tinshamim — chameleon-folk (Armaros)
+- **Stock:** family **Chamaeleonidae** (chameleons), alien genus. **Name:** Heb. *tinshemet*, a creature of Lev. 11:30 often read as the chameleon.
+- **Role:** **spies and informers.** They can **change colour**, which is plausible biology.
+
+### Arnavim — hare-folk (Gadreel)
+- **Stock:** family **Leporidae** (hares / rabbits), alien genus. **Name:** Heb. *arnevet*, "hare."
+- **Role:** **comfort maids, concubines, wet-nurses, midwives.** Hares are the classic fertility animal.
+
+### Chazirim — boar-folk (Araqiel)
+- **Stock:** family **Suidae** (pigs / boars), alien genus. **Name:** Heb. *chazir*, "swine."
+- **Role:** **miners, farmers, haulers.** Tusked, thick, tireless.
 
 ## The Iyim (free enclaves)
 

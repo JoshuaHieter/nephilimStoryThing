@@ -47,12 +47,18 @@ status: draft
 
 ## The subject races (the Kilayim underclass)
 
-The empire runs on a **caste-stack of many** [[Kilayim Races|Kilayim]], each slotted into a role — for example:
+The empire runs on a **caste-stack of eight** [[Kilayim Races|Kilayim]] races, **one per constellation**:
 
-- **Chazirim** (boar-folk) — brute labor, miners, shock-troops.
-- **Kelevim** (hound-folk) — trackers, soldiers, loyal servants.
-- **Tunoth** (eel-folk) — dock, dive, and sea labor.
-- **Orevim** (raven-folk) — clever, servile scribes, messengers, spies.
+- **Kelevim** (hound-folk; Azazel): soldiers; crush revolts.
+- **Atalefim** (bat-folk; Kokabiel): night-watch, lookouts, navigators' aides.
+- **Tunoth** (eel-folk; Baraqiel): dock, dive and sea labour.
+- **Orevim** (raven-folk; Penemue): scribes and messengers.
+- **Rachamim** (vulture-folk; Sariel): undertakers and public executioners, "the Mercies."
+- **Tinshamim** (chameleon-folk; Armaros): spies and informers.
+- **Arnavim** (hare-folk; Gadreel): comfort maids, concubines, wet-nurses, midwives.
+- **Chazirim** (boar-folk; Araqiel): miners, farmers, haulers.
+
+**Accepting the sanctified role** is how a Kilayim leaves the **backwater governorship** for the **big city or a great estate**, and gets **paid**.
 
 Full roster and stock in [[Kilayim Races]]. Many also live as **free** communities in the [[The Ocean World|Iyim]] — the same race, crushed here and sovereign there.
 
