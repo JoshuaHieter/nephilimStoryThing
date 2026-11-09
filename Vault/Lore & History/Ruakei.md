@@ -55,6 +55,11 @@ The myth gives them **pride against contempt:** they descend from **a goddess an
 - ***Māwiel*** (the Trickster): a near-miss on **Māui**, the Polynesian trickster, plus the Hebrew ***-el***. Since he is a Nephilim, his name carries a Hebrew, angelic edge (the language's Hebrew gradient).
 - *(Real-myth echo: in Polynesian legend the trickster Māui **kills** Tuna, an eel lover. The Ruakei story inverts it: the trickster **wins** the eel through love.)*
 
+## Wider religion: heroes made demigods
+
+- Beyond the Whaetunu myth, Ruakei faith is a host of **famous heroes** whose stories have been **aggrandized into demigods**.
+- Each hero's legend **explains a natural phenomenon or a piece of history**.
+
 ## Place in the world
 
 - **Constellation:** the eelfolk's sanctified caste role belongs to **Baraqiel** (Storm & Sea) in [[The Saraïm Faith]].
@@ -77,6 +82,10 @@ The myth gives them **pride against contempt:** they descend from **a goddess an
 
 - **Slippery survivors.** They slip nets, oppression, and notice alike — go-anywhere folk (through bilges, under hulls, flooded tunnels), with a name as **smugglers.** Weak in open war, but **impossible to truly stamp out.**
 
+## When cornered
+
+- They fight **slippery and tricky**: slipping grips and nets, ambush, misdirection and escape, rather than standing in open battle.
+
 ## Connections
 
 - [[Kilayim Races]] · [[Saraïm]] (their oppressors) · [[The Ocean World|Iyim]] (their free cities) · [[Book Plotline]] (the besieged eelfolk city).
@@ -86,5 +95,5 @@ The myth gives them **pride against contempt:** they descend from **a goddess an
 - **Lifespan:** long-lived like real eels (80+ years), or ordinary?
 
 
-- Having **no special powers**, how do they **fight** when cornered — numbers, water, ambush, slipperiness, knowing the harbor blind?
-- Their broader **religion / Earth-belief** beyond the origin-myth?
+- Who are the **hero-demigods**? A few names and the phenomena or events they explain.
+- Their **Earth-belief**, if any?
