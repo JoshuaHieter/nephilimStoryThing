@@ -48,8 +48,8 @@ Toldoth's one hybrid stock is the **Ayalim** (stag-folk; full detail in [[Kilayi
 - *(Real-world rhyme: blood-quantum hierarchy within a single people — but aimed at a middle, not an extreme.)*
 
 ### The dual monarchy
-- Toldoth is a **monarchy**: a **dual monarchy** of **two main kingdoms that formed together** into one realm.
-- **Succession:** when the king dies, the **bloodlines present their best-balanced candidates**, and the next king is decided by a **contest using antlers**.
+- Toldoth is a **monarchy**: a **dual monarchy** of **two main kingdoms that formed together** into one realm. The two kingdoms **used to split the realm**, but over time the division has become a **formality with no real weight**.
+- **Succession:** when the king dies, the **bloodlines present their best-balanced candidates**, and the next king is decided by a **contest using antlers**. It tests **sensing and processing**: how much a candidate can pick up through the antlers, and how well they make sense of it. It is the balance itself, put to trial.
 
 ## Religion, culture & the fear of Earth
 
@@ -81,7 +81,7 @@ Toldoth's one hybrid stock is the **Ayalim** (stag-folk; full detail in [[Kilayi
 
 ## Open questions
 
-- **The two kingdoms:** do they split the island, or keep separate courts? Is it **one king** over both? What form does the **antler contest** take: the sense, the disorienting touch, display?
+- What do the **contest's trials** actually look like, and who judges them?
 
 - The antlers are **living quartz** (resolved). Since they don't shed, are they worth *taking* — poaching from the wild ayal, or trophies cut from the dead?
 - What exactly **is** the balance — a named ratio? How is it measured or judged?
