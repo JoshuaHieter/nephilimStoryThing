@@ -82,6 +82,7 @@ The empire of [[Saraïm]] runs on a **caste-stack of eight** Kilayim races. **Ea
 - **Superfetation:** like real brown hares, an Arnava can **conceive again while already pregnant**: near non-stop fertility, which is why the empire prizes and exploits them, and why they belong to Gadreel.
 - **Quick-growing children:** their young develop **a little faster** than human children, but not much: closer to normal people than to real leverets.
 - **Arnavim men** (full Arnavim, not the eunuch liaisons) are **servants**; **young boys are abused as concubines by pederast nobles**; and men are used as **breeding stock**, selectively bred to produce prized "breeds" of women for the concubine trade.
+- **Language / naming:** a **Japanese + Hebrew** mix, which gives them an exotic appeal that fits their culture. *(Like the [[Ruakei]], probably borrow Japanese **sound-shape** rather than real words; open.)*
 - **No free Arnavim.** All are conquered: their homeland is the **big central Saraïm island** (the Crown Isle), taken before Saraïm's conquests were complete. There is **no hare isle among the Iyim**.
 
 ### Chazirim — boar-folk (Araqiel)
