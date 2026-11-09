@@ -45,6 +45,7 @@ Toldoth's one hybrid stock is the **Ayalim** (stag-folk; full detail in [[Kilayi
 ## Power & control
 
 - Unlike [[Saraïm]]'s many subject races, here it's **one people**, ranked along a **spectrum of blood** — with the **balance**, not the pure end, at the top.
+- **Rising against your blood** happens, but it's **rare and not a big deal**.
 - *(Real-world rhyme: blood-quantum hierarchy within a single people — but aimed at a middle, not an extreme.)*
 
 ### The dual monarchy
@@ -86,6 +87,5 @@ Toldoth's one hybrid stock is the **Ayalim** (stag-folk; full detail in [[Kilayi
 - The antlers are **living quartz** (resolved). Since they don't shed, are they worth *taking* — poaching from the wild ayal, or trophies cut from the dead?
 - What exactly **is** the balance — a named ratio? How is it measured or judged?
 - Does diet **in puberty** (when most growth happens) matter most — and does that make adolescent feeding a family / class concern?
-- What lets someone **rise against** their blood — wealth, deeds, cunning, beauty?
 - Beyond the heresy charge, any **border, trade, or war history** with [[Saraïm]]?
 - How does it stand toward [[Saraïm]] — rival, vassal, ally?
