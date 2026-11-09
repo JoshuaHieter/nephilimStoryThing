@@ -8,6 +8,8 @@ status: draft
 
 The working map of **Rephaim**, the main continent of [[The Ocean World]]. Joshua approved this island layout on 2026-11-08.
 
+![[Maps/Rephaim/rephaim-provinces.png]]
+
 ![[Maps/Rephaim/rephaim-powers.png]]
 
 ![[Maps/Rephaim/rephaim-biomes.png]]
@@ -27,8 +29,21 @@ The working map of **Rephaim**, the main continent of [[The Ocean World]]. Joshu
 - **[[Toldoth]]** holds the **third-biggest island**, to the west between Gibborim and Saraïm (about 7%). It's kept to roughly that island.
 - The white islands are **unclaimed** on this map. The Iyim and any neutrals are still TBD.
 
+## Saraïm's provinces (layout approved by Joshua, 2026-11-09)
+
+One province per Saraïm island (see [[Saraïm]], "Nationalities"):
+
+- **Crown Isle**: the central island, with [[Zebul]] on it (the exact spot isn't set).
+- **Toldoth Border**: the Saraïm island facing [[Toldoth]], to the south-west.
+- **Forge Isles**: the outermost Saraïm island, out east on open sea for the shipyards. *It's one island on the map for now. Nearby islets could join it.*
+- **Old Rival**: a whole island of its own, north-east of Crown Isle.
+- **Marsh March**: the remaining island, to the south-east, with [[Pātuna]] on a marshy coast facing the Iyim (the exact spot isn't set).
+
+*Joshua gave the rules above. Which specific island got Old Rival and which got Marsh March (the last two) was Claude's pick.*
+
 ## Files
 
+- `Maps/Rephaim/rephaim-provinces.png`: the powers plus Saraïm's five provinces
 - `Maps/Rephaim/rephaim-powers.png`: the three powers
 - `Maps/Rephaim/rephaim-biomes.png`: biomes view (from before the islets were removed)
 - `Maps/Rephaim/rephaim-terrain.png`: the same map as elevation, with the 2,700 km circle drawn in red
@@ -45,6 +60,6 @@ These are **placeholders made by the generator**. They are not decisions:
 
 ## Open questions
 
-- Where are [[Zebul]] and [[Pātuna]]? How do Saraïm's five nationalities map onto its islands?
+- Exactly where on their islands are [[Zebul]] and [[Pātuna]]?
 - Where are the Iyim?
 - Name the individual islands?
