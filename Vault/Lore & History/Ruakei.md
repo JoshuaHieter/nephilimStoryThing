@@ -59,6 +59,7 @@ The myth gives them **pride against contempt:** they descend from **a goddess an
 
 - **Mostly Māori-inspired dialect**: it borrows the **broad strokes of how Māori words are formed**, **not the actual words**.
   - *(Reference, Māori sound shape: open syllables, each a consonant plus vowel or a bare vowel; no consonant clusters; words end in vowels; a small sound set: a e i o u, h k m n p r t w, ng, wh; long vowels; reduplication.)*
+- **Exception:** **[[Pātuna]]** keeps its name, even though it is built from real Māori words (*pā tuna*).
 - **The Hebrew gradient:** the **more Hebrew a word is, the more advanced it is, or the more it has to do with [[Saraïm]]**. Old, home, water and kin words keep the Māori shape. Technology, trade, law and the empire's things come in Hebrew-shaped.
 
 ## Character as a people
@@ -71,7 +72,6 @@ The myth gives them **pride against contempt:** they descend from **a goddess an
 
 ## Open questions
 
-- **Pātuna** is built from real Māori words (*pā tuna*). Keep it as an exception, or rebuild it to the new rule?
 
 - The **names** of the Great Eel and the Trickster.
 - Having **no special powers**, how do they **fight** when cornered — numbers, water, ambush, slipperiness, knowing the harbor blind?
