@@ -44,6 +44,11 @@ The myth gives them **pride against contempt:** they descend from **a goddess an
 
 > **The truth they refuse:** there was no queen, no goddess, no curse. It was just **horny Nephilim** breeding with the native eel-beasts (Nephilim crossbreed with anything — [[Nephilim Biology & Caste]]); the wild eels were never sentient, only animals. The eelfolk **don't want to believe that** — and who could blame them. *(Low magic: the "curse" is myth, not real — [[Setting Principles]].)*
 
+### Their names
+- ***Whaetunu*** (the Great Eel): a near-miss on Māori *whaea* "mother" + *tuna* "eel." Pure marsh-shaped.
+- ***Māwiel*** (the Trickster): a near-miss on **Māui**, the Polynesian trickster, plus the Hebrew ***-el***. Since he is a Nephilim, his name carries a Hebrew, angelic edge (the language's Hebrew gradient).
+- *(Real-myth echo: in Polynesian legend the trickster Māui **kills** Tuna, an eel lover. The Ruakei story inverts it: the trickster **wins** the eel through love.)*
+
 ## Place in the world
 
 - **Constellation:** the eelfolk's sanctified caste role belongs to **Baraqiel** (Storm & Sea) in [[The Saraïm Faith]].
@@ -61,11 +66,6 @@ The myth gives them **pride against contempt:** they descend from **a goddess an
   - *(Reference, Māori sound shape: open syllables, each a consonant plus vowel or a bare vowel; no consonant clusters; words end in vowels; a small sound set: a e i o u, h k m n p r t w, ng, wh; long vowels; reduplication.)*
 - **Exception:** **[[Pātuna]]** keeps its name, even though it is built from real Māori words (*pā tuna*).
 - **The Hebrew gradient:** the **more Hebrew a word is, the more advanced it is, or the more it has to do with [[Saraïm]]**. Old, home, water and kin words keep the Māori shape. Technology, trade, law and the empire's things come in Hebrew-shaped.
-
-### Their names
-- ***Whaetunu*** (the Great Eel): a near-miss on Māori *whaea* "mother" + *tuna* "eel." Pure marsh-shaped.
-- ***Māwiel*** (the Trickster): a near-miss on **Māui**, the Polynesian trickster, plus the Hebrew ***-el***. Since he is a Nephilim, his name carries a Hebrew, angelic edge (the language's Hebrew gradient).
-- *(Real-myth echo: in Polynesian legend the trickster Māui **kills** Tuna, an eel lover. The Ruakei story inverts it: the trickster **wins** the eel through love.)*
 
 ## Character as a people
 
